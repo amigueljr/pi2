@@ -1,0 +1,2015 @@
+! V-510 Starting version 1.03.00 01.00 at 15-Mar-2013 16:29:06 user_mode= 1  Application= Pre
+!Training Mode 3
+!Init Over, Application= Post
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:20:40   1 0 685 1870 0             jagvinsi
+E  404 10:20 2:tvs8726 196 bmot-s938c83129   0    17  -118   203  400 nxt1md4sl14-1   Skew
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:21:36   0 0 686 2712 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:22:04   0 0 687 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:22:52   1 0 688 1883 0             jagvinsi
+E  407 10:23 2:u8202 191 bmot-sp68d17560   0   206   -26   -18    4 nxt1md19sl1-1   Right Off
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:24:13   0 0 689 2409 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:25:08   0 0 690 1876 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:26:46   0 0 691 2155 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:27:49   0 0 692 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:29:11   0 0 693 1889 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:29:42   0 0 694 1876 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:30:16   0 0 695 2674 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:30:45   2 0 696 1803 0             jagvinsi
+E  415 10:30 3:u2912 196 bmot-s938d25101   0    19     1  1800 1000 nxt1md14sl16-1   Polarity
+E  415 10:30 2:c7206  88 cmot-s938d03600   0   103    22     0    1 nxt1md10sl9-1   Missing
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:32:16   0 0 697 2712 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:32:44   0 0 698 2048 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:35:06   0 0 699 1828 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:35:59   1 0 700 1883 0             jagvinsi
+E  419 10:36 4:r1601 199 rmot-s938d09420 180     9    34   123  400 nxt1md6sl15-1   Skew
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:36:52   0 0 701 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:38:57   1 0 702 1889 0             jagvinsi
+E  421 10:39 4:tvs15202 198 bmot-s938c95678 270     9    66  -123  400 nxt1md9sl8-1   Skew
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:40:09   0 0 703 1803 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:40:40   0 0 704 1876 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:42:27   2 0 705 2444 0             jagvinsi
+E  424 10:42 2:r14611  97 cmot-s938c56344 180  -104    16     0    1 nxt1md9sl10-1   Missing
+E  424 10:42 3:c11904  98 cmot-s938d03599  90    21   -23   -17    1 nxt1md5sl12-1   Missing
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:44:28   0 0 706 1837 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:45:56   0 0 707 1876 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:46:27   1 0 708 399 0             jagvinsi
+E  427 10:46 1:l2601  38 bmot-s938c83136   0   128   -25    -9    1 nxt1md13sl5-1   Missing
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:47:43   0 0 709 1730 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:49:08   0 0 710 1974 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:49:59   0 0 711 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:52:13   0 0 712 2712 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:52:55   0 0 713 2712 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:53:57   2 0 714 2588 0             jagvinsi
+E  433 10:54 2:l10701 100 bmot-s938d09455 270    94    33    -1    1 nxt1md13sl6-1   Missing
+E  433 10:54 3:l10701 109 bmot-s938d09455  90   -12   -60    -6    1 nxt1md13sl6-1   Missing
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:55:57   0 0 715 2712 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_10:56:25   0 0 716 2046 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:57:19   0 0 717 2712 0             jagvinsi
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:58:33   2 0 718 2389 0             jagvinsi
+E  437 10:58 4:tvs7093 104 bmot-s938c56552  90    64    74    18    1 nxt1md12sl3-1   Missing
+E  437 10:58 2:u12101 199 bmot-sc98c95844   0    17   -12  1800 1000 nxt1md17sl13-1   Polarity
+B  Barcode0 SB28D22165_Y_BOT 21-Oct-2021_10:59:54   0 0 719 1670 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:03:18   0 0 720 1876 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:03:49   2 0 721 1883 0             jagvinsi
+E  440 11:04 1:r15202  65 rmot-s938d05171   0    37    10    -1    1 nxt1md7sl2-1   Missing
+E  440 11:04 2:c2804  85 cmot-s938d03599 270    74   -42    16    1 nxt1md5sl12-1   Missing
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:04:21   0 0 722 1889 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:04:52   0 0 723 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:06:02   0 0 724 1876 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:10:00   1 0 725 1883 0             jagvinsi
+E  444 11:10 3:j7004  53 umot-s938d03641   0    21     0    -5 1001 nxt1md9sl6-1   Missing  Polarity
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:10:51   2 0 726 1821 0             jagvinsi
+E  445 11:11 1:u14401 199 bmot-sc98c86677   0   -34    -7  1800 1000 nxt1md18sl17-1   Polarity
+E  445 11:11 1:r8708 102 rmot-s938c89465  90   109    47    17 4000 nxt1md6sl14-1   Billboard
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:12:02   0 0 727 542 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:15:25   1 0 728 1883 0             jagvinsi
+E  447 11:15 4:u14401 198 bmot-sc98c86677 180    58   -27  1800 1000 nxt1md18sl17-1   Polarity
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:16:32   4 0 729 1828 0             jagvinsi
+E  448 11:16 1:r15206  62 rmot-s938d05171 180   -18    58     0    1 nxt1md7sl2-1   Missing
+E  448 11:16 1:l7203 200 bmot-s938d23328   0    21    -9  1800 1000 nxt1md14sl13-1   Polarity
+E  448 11:16 4:l7201 199 bmot-s938d13515 180    -1   -11  -128  400 nxt1md14sl5-1   Skew
+E  448 11:16 3:u14401 199 bmot-sc98c86677 180    49    -9  1800 1000 nxt1md18sl17-1   Polarity
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:18:20   0 0 730 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:18:54   3 0 731 1883 0             jagvinsi
+E  450 11:19 4:l2601  39 bmot-s938c83136 180    -3    -9     1    1 nxt1md13sl5-1   Missing
+E  450 11:19 4:u14401 199 bmot-sc98c86677 180    50   -19  1800 1000 nxt1md18sl17-1   Polarity
+E  450 11:19 3:u8202 193 bmot-sp68d17560 180  -292   -47   -11    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:19:46   3 0 732 1715 0             jagvinsi
+E  451 11:19 4:u8202 191 bmot-sp68d17560 180  -260  -129    -7    6 nxt1md19sl1-1   Left Off  Right Off
+E  451 11:19 4:c11857 198 cmot-s938c85359  90    28    -4   -17 200000 nxt1md7sl13-1   Paste
+E  451 11:19 3:u8202 193 bmot-sp68d17560 180  -304   -67    -9    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:20:38   2 0 733 1835 0             jagvinsi
+E  452 11:20 4:u8202 184 bmot-sp68d17560 180  -297  -109    -9    6 nxt1md19sl1-1   Left Off  Right Off
+E  452 11:20 3:u8202 190 bmot-sp68d17560 180  -290   -42   -14    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:31:03   0 0 734 535 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:50:35   0 0 735 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:50:54   1 0 736 2015 0             jagvinsi
+E  455 11:51 4:u8202 194 bmot-sp68d17560 180  -250   -84   -30    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:51:18   1 0 737 1883 0             jagvinsi
+E  456 11:51 4:u8202 189 bmot-sp68d17560 180  -238   -93   -27    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:52:10   1 0 738 1876 0             jagvinsi
+E  457 11:52 4:u8202 186 bmot-sp68d17560 180  -232   -29   -29    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:52:53   0 0 739 1883 0             jagvinsi
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:53:12   3 0 740 1883 0             jagvinsi
+E  459 11:53 1:r8469 151 rmot-s938d03561  90    32    18    -1 200000 nxt1md7sl4-1   Paste
+E  459 11:53 4:u8202 192 bmot-sp68d17560 180  -267   -71    -7    6 nxt1md19sl1-1   Left Off  Right Off
+E  459 11:53 3:u8202 191 bmot-sp68d17560 180  -259   -14   -10    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:53:45   2 0 741 1897 0             jagvinsi
+E  460 11:53 4:u8202 193 bmot-sp68d17560 180  -296  -110   -11    6 nxt1md19sl1-1   Left Off  Right Off
+E  460 11:53 3:u8202 187 bmot-sp68d17560 180  -256   -59     3    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D22165_Y_TOP 21-Oct-2021_11:54:09   2 0 742 1876 0             jagvinsi
+E  461 11:54 4:u8202 190 bmot-sp68d17560 180  -301   -98   -12    6 nxt1md19sl1-1   Left Off  Right Off
+E  461 11:54 3:u8202 183 bmot-sp68d17560 180  -231   -17   -27    6 nxt1md19sl1-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_11:16:38   8 0 743 2407 0             jagjusil
+E  462 11:16  1:m102  60 umot-39014236003   0  -272     0     6    f nxt1md14sl3-1   Missing  Left Off  Right Off  Hor Off
+E  462 11:16  1:m104  40 umot-39014236003  90     0   145     1 1009 nxt1md14sl3-1   Missing  Hor Off  Polarity
+E  462 11:16 1:r5303   2 rmot-0613952t01   0    37    22     0    1 nxt1md1sl13-1   Missing
+E  462 11:16 2:r5303   4 rmot-0613952t01 180    -9    35   -17    1 nxt1md1sl13-1   Missing
+E  462 11:16 2:r5302   2 rmot-0613952t01 180   -28    43   -17    1 nxt1md1sl13-1   Missing
+E  462 11:16  2:m351 142 umot-39014236003  90     0   151     0    1 nxt1md14sl3-1   Missing
+E  462 11:16 3:r5303  38 rmot-0613952t01 180     0    38     0    1 nxt1md1sl13-1   Missing
+E  462 11:16 3:r5302   0 rmot-0613952t01 180   -18    32     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_11:19:23   2 0 744 2071 0             jagvinsi
+E  463 11:22  1:m102  63 umot-39014236003   0  -282     0     6    f nxt1md14sl3-1   Missing  Left Off  Right Off  Hor Off
+E  463 11:22  1:m104  40 umot-39014236003  90     0   140     1 1009 nxt1md14sl3-1   Missing  Hor Off  Polarity
+F  463 11:22 1:r5303   9 rmot-0613952t01   0    18    25     0    1 nxt1md1sl13-1 FF- Missing
+F  463 11:22 2:r5303   0 rmot-0613952t01 180   -18    36     0    1 nxt1md1sl13-1 FF- Missing
+F  463 11:22 2:r5302   0 rmot-0613952t01 180   -28    38   -17    1 nxt1md1sl13-1 FF- Missing
+F  463 11:22  2:m351 147 umot-39014236003  90     0   149     0    1 nxt1md14sl3-1 FF- Missing
+F  463 11:22 3:r5303  29 rmot-0613952t01 180   -18    39     0    1 nxt1md1sl13-1 FF- Missing
+F  463 11:22 3:r5302   0 rmot-0613952t01 180   -18    30     0    1 nxt1md1sl13-1 FF- Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_11:22:45   1 0 745 2778 1             jagvinsi
+E  464 11:23 3:q4101 192 bmot-sda8d06219  90    16    43  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_11:25:53   0 0 746 1939 1             jagvinsi
+F  465 11:27 4:u8860 199 bmot-sc98c95844  90    27  -114    -8    2 nxt1md19sl12-1 FF- Left Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_11:27:51   0 0 747 2469 1             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_11:28:15   1 0 748 3008 0             jagvinsi
+E  467 11:28  4:m102 137 umot-39014236003   0   100     0    -2    9 nxt1md14sl3-1   Missing  Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:10:23   8 0 749 2786 0             jagvinsi
+E  468 12:10 3:r1006  86 rmot-0613952t01 180     9    -2   -17    1 nxt1md1sl13-1   Missing
+E  468 12:10 4:r1001  34 rmot-0613952t01 270    10     0     0    1 nxt1md1sl13-1   Missing
+E  468 12:10 4:fl7517 200 bmot-sc98c91818  90    33    26  1800 1000 nxt1md12sl7-1   Polarity
+E  468 12:10 1:r1001  38 rmot-0613952t01 270    16     0     0    1 nxt1md1sl13-1   Missing
+E  468 12:10 1:r2609  50 rmot-0613952t01 180    66    31    17    1 nxt1md1sl13-1   Missing
+E  468 12:10 2:r4066  19 rmot-0613952t01  90    17     0     0    1 nxt1md1sl13-1   Missing
+E  468 12:10 2:r1001  42 rmot-0613952t01  90     8     0     0    1 nxt1md1sl13-1   Missing
+E  468 12:10 1:r4066  39 rmot-0613952t01 270   -11     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:12:42   7 0 750 2786 0             jagvinsi
+E  469 12:12 3:r1006  91 rmot-0613952t01 180     9    -2   -17    1 nxt1md1sl13-1   Missing
+E  469 12:12 4:r1001  37 rmot-0613952t01 270     8     0     0    1 nxt1md1sl13-1   Missing
+E  469 12:12 1:r1001  47 rmot-0613952t01 270    16     0     0    1 nxt1md1sl13-1   Missing
+E  469 12:12 1:r2609  24 rmot-0613952t01 180    66    32    17    1 nxt1md1sl13-1   Missing
+E  469 12:12 2:r4066  22 rmot-0613952t01  90    17     0     0    1 nxt1md1sl13-1   Missing
+E  469 12:12 2:r1001  24 rmot-0613952t01  90    -6     9   -17    1 nxt1md1sl13-1   Missing
+E  469 12:12 1:r4066  26 rmot-0613952t01 270   -14     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:14:07  10 0 751 2786 0             jagvinsi
+E  470 12:14 3:r1006  54 rmot-0613952t01 180   -18    10     0    1 nxt1md1sl13-1   Missing
+E  470 12:14 4:r1001  51 rmot-0613952t01 270     3     0     0    1 nxt1md1sl13-1   Missing
+E  470 12:14 4:r4066  15 rmot-0613952t01 270    17    -9   -17    1 nxt1md1sl13-1   Missing
+E  470 12:14 4:r1006  15 rmot-0613952t01   0   -18    13     0    1 nxt1md1sl13-1   Missing
+E  470 12:14 1:r1001  58 rmot-0613952t01 270    26     0     0    1 nxt1md1sl13-1   Missing
+E  470 12:14  4:m101  44 umot-39014236003  90     0   132    -1    1 nxt1md14sl3-1   Missing
+E  470 12:14 1:r2609  47 rmot-0613952t01 180    85    30    17    1 nxt1md1sl13-1   Missing
+E  470 12:14 2:r4066  44 rmot-0613952t01  90    26    -9    17    1 nxt1md1sl13-1   Missing
+E  470 12:14 2:r1001  47 rmot-0613952t01  90     4     0     0    1 nxt1md1sl13-1   Missing
+E  470 12:14 1:r4066  53 rmot-0613952t01 270     1     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:15:01   8 0 752 3125 0             jagvinsi
+E  471 12:15 3:r1006  42 rmot-0613952t01 180     0     9     0    1 nxt1md1sl13-1   Missing
+E  471 12:15 4:r1001  22 rmot-0613952t01 270    14     0     0    1 nxt1md1sl13-1   Missing
+E  471 12:15 4:r2609  38 rmot-0613952t01 180    -9    12   -17    1 nxt1md1sl13-1   Missing
+E  471 12:15 1:r2609  45 rmot-0613952t01 180    85    25    17    1 nxt1md1sl13-1   Missing
+E  471 12:15 2:r4066  24 rmot-0613952t01  90    26     0     0    1 nxt1md1sl13-1   Missing
+E  471 12:15 2:r1001  36 rmot-0613952t01  90     7     9   -17    1 nxt1md1sl13-1   Missing
+E  471 12:15 1:r4066  50 rmot-0613952t01 270    10     0     0    1 nxt1md1sl13-1   Missing
+E  471 12:15 1:r1006  33 rmot-0613952t01   0   -37     5     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:15:51  11 0 753 2786 0             jagvinsi
+E  472 12:16 3:fl7320   2 bmot-91014486001   0   -50   434   250  409 nxt1md14sl5-1   Missing  Hor Off  Skew
+E  472 12:16 3:u7300 152 bmot-sc98c85032   0   -16  -310   -11    8 nxt1md19sl10-1   Hor Off
+E  472 12:16 3:r1006  45 rmot-0613952t01 180    18    10     0    1 nxt1md1sl13-1   Missing
+E  472 12:16 4:r1001  22 rmot-0613952t01 270    14     0     0    1 nxt1md1sl13-1   Missing
+E  472 12:16 4:r2609  51 rmot-0613952t01 180    -9    24   -17    1 nxt1md1sl13-1   Missing
+E  472 12:16 4:r4066  20 rmot-0613952t01 270    12     0     0    1 nxt1md1sl13-1   Missing
+E  472 12:16 4:fl8503 199 bmot-91014306001 180    27  -101  1800 1000 nxt1md9sl14-1   Polarity
+E  472 12:16 1:r2609  10 rmot-0613952t01 180    56    37     0    1 nxt1md1sl13-1   Missing
+E  472 12:16 2:r4066  19 rmot-0613952t01  90    28     0     0    1 nxt1md1sl13-1   Missing
+E  472 12:16 2:r1001  25 rmot-0613952t01  90     0     9   -17    1 nxt1md1sl13-1   Missing
+E  472 12:16 1:r4066  59 rmot-0613952t01 270     6     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:16:37   7 0 754 3039 0             jagvinsi
+E  473 12:16 3:r1006  27 rmot-0613952t01 180    -9   -10   -17    1 nxt1md1sl13-1   Missing
+E  473 12:16 4:r1001  13 rmot-0613952t01 270    21     0     0    1 nxt1md1sl13-1   Missing
+E  473 12:16 4:c6403 113 cmot-sc49a22133 270   -70    14    22 200000 nxt1md6sl13-1   Paste
+E  473 12:16 1:r2609  52 rmot-0613952t01 180    85    26    17    1 nxt1md1sl13-1   Missing
+E  473 12:16 2:r4066  15 rmot-0613952t01  90    32     0     0    1 nxt1md1sl13-1   Missing
+E  473 12:16 2:r1001  40 rmot-0613952t01  90    -7     0     0    1 nxt1md1sl13-1   Missing
+E  473 12:16 1:r4066  48 rmot-0613952t01 270    -2     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:19:00   6 0 755 2786 0             jagvinsi
+E  474 12:19 3:r1006  29 rmot-0613952t01 180    -9    -9   -17    1 nxt1md1sl13-1   Missing
+E  474 12:19 4:r1001  17 rmot-0613952t01 270    23     0     0    1 nxt1md1sl13-1   Missing
+E  474 12:19 1:r2609  44 rmot-0613952t01 180    85    26    17    1 nxt1md1sl13-1   Missing
+E  474 12:19 2:r4066  16 rmot-0613952t01  90    38     0     0    1 nxt1md1sl13-1   Missing
+E  474 12:19 2:r1001  49 rmot-0613952t01  90    -5     0     0    1 nxt1md1sl13-1   Missing
+E  474 12:19 1:r4066  38 rmot-0613952t01 270     0    -9    17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_12:19:29   9 0 756 2786 0             jagvinsi
+E  475 12:19 3:fl7320   5 bmot-91014486001   0   155   249  -199  40d nxt1md14sl5-1   Missing  Right Off  Hor Off  Skew
+E  475 12:19 3:u7300  20 bmot-sc98c85032   0  -593  -267   -77    f nxt1md19sl10-1   Missing  Left Off  Right Off  Hor Off
+E  475 12:19 3:r1006  44 rmot-0613952t01 180    18    11     0    1 nxt1md1sl13-1   Missing
+E  475 12:19 4:r1001  15 rmot-0613952t01 270    10     0     0    1 nxt1md1sl13-1   Missing
+E  475 12:19 4:r4066   9 rmot-0613952t01 270    13     0     0    1 nxt1md1sl13-1   Missing
+E  475 12:19 1:r2609  18 rmot-0613952t01 180    56    36     0    1 nxt1md1sl13-1   Missing
+E  475 12:19 2:r4066  24 rmot-0613952t01  90    21     0     0    1 nxt1md1sl13-1   Missing
+E  475 12:19 2:r1001  17 rmot-0613952t01  90     4     9   -17    1 nxt1md1sl13-1   Missing
+E  475 12:19 1:r4066  74 rmot-0613952t01 270     3     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:44:04   0 0 757 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:45:08   1 0 758 2256 0             jagvinsi
+E  477 13:45  4:j402 210 umot-09014195001w  90     0    10    -4  400 nxt1md16sl14-1   Skew
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:46:24   2 0 759 2696 0             jagvinsi
+E  478 13:46  4:m351 170 umot-39014236003 270     0   125    -2    8 nxt1md14sl3-1   Hor Off
+E  478 13:46  2:l371 200 rmot-si28c43504   0    -9    42    17 20000 nxt1md5sl8-1   Flipped
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:49:22   2 0 760 2441 0             jagvinsi
+E  479 13:49 3:q4101 185 bmot-sda8d06219  90    25    60  1800 1000 nxt1md11sl20-1   Polarity
+E  479 13:49 2:r2668  84 rmot-0613952v30 270   -50     0     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:49:46   0 0 761 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:50:53   2 0 762 2656 0             jagvinsi
+E  481 13:51  4:m102 148 umot-39014236003   0   108     0    -3    9 nxt1md14sl3-1   Missing  Hor Off
+E  481 13:51  4:m104 145 umot-39014236003  90     0   -88    -4    9 nxt1md14sl3-1   Missing  Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:52:06   4 0 763 2872 0             jagvinsi
+E  482 13:52  3:m351 170 umot-39014236003  90     0   -67    -3    8 nxt1md14sl3-1   Hor Off
+E  482 13:52  4:m102 152 umot-39014236003   0   107     0    -3    8 nxt1md14sl3-1   Hor Off
+E  482 13:52  4:m104 154 umot-39014236003  90     0  -111    -3    8 nxt1md14sl3-1   Hor Off
+E  482 13:52 2:r2668  84 rmot-0613952v30 270   -36     9   -17    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:54:08   0 0 764 2441 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:55:41   0 0 765 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:57:15   4 0 766 2872 0             jagvinsi
+E  485 13:57 4:u4130 193 bmot-sc98c30584 180    -2    27  1800 1000 nxt1md17sl18-1   Polarity
+E  485 13:57 3:q4101 193 bmot-sda8d06219  90    30    53  1800 1000 nxt1md11sl20-1   Polarity
+E  485 13:57 2:r5302  95 rmot-0613952t01 180   -37    34     0    1 nxt1md1sl13-1   Missing
+E  485 13:57 2:r2668  82 rmot-0613952v30 270   -34     0     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:58:40   1 0 767 2256 0             jagvinsi
+E  486 13:58 1:c5716   0 cmot-2113944e23 180    46   -54   -35 200001 nxt1md3sl11-1   Missing  Paste
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_13:59:47   1 0 768 2429 0             jagvinsi
+E  487 13:59 4:r5303  80 rmot-0613952t01   0     0    29    -1    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:01:39   1 0 769 2431 0             jagvinsi
+E  488 14:01 3:q4101 193 bmot-sda8d06219  90    32    39  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:02:48   0 0 770 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:04:19   0 0 771 2428 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:05:38   0 0 772 2872 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:07:40   1 0 773 2256 0             jagvinsi
+E  492 14:07 3:q4101 191 bmot-sda8d06219  90    11    37  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:09:08   0 0 774 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:10:54   1 0 775 2256 0             jagvinsi
+E  494 14:11 3:q4101 188 bmot-sda8d06219  90    25    39  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:14:25   1 0 776 2256 0             jagvinsi
+E  495 14:14 4:r5303  48 rmot-0613952t01   0     0    47    -1    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:16:01   0 0 777 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:17:13   0 0 778 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:20:13   0 0 779 2428 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:20:48   3 0 780 2335 0             jagvinsi
+E  499 14:21 3:q4101 188 bmot-sda8d06219  90    27    31  1800 1000 nxt1md11sl20-1   Polarity
+E  499 14:21 2:r2668  89 rmot-0613952v30 270   -34    18    -1    1 nxt1md5sl6-1   Missing
+E  499 14:21 3:r1871  62 rmot-0613952x73 270    20   -18    -1    1 nxt1md5sl12-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:24:40   1 0 781 2256 0             jagvinsi
+E  500 14:24 3:q4101 191 bmot-sda8d06219  90    36    38  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:25:44   1 0 782 2256 0             jagvinsi
+E  501 14:25 1:c5716   0 cmot-2113944e23 180    46   -53   -35 200001 nxt1md3sl11-1   Missing  Paste
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:33:39   0 0 783 2861 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:38:45   2 0 784 2724 0             jagvinsi
+E  503 14:38 4:u8860 197 bmot-sc98c95844  90    21   -29  1800 1000 nxt1md19sl12-1   Polarity
+E  503 14:38 2:fl1888 193 smot-25014004001   0   -72   -29   158  400 nxt1md11sl14-1   Skew
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:39:38   0 0 785 2657 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:40:50   1 0 786 2256 0             jagvinsi
+E  505 14:41 2:r2668  83 rmot-0613952v30 270   -48     9   -18    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:42:13   0 0 787 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:43:42   1 0 788 2656 0             jagvinsi
+E  507 14:43 2:q4101 193 bmot-sda8d06219  90    17    45  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:45:11   0 0 789 2838 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:46:30   1 0 790 2256 0             jagvinsi
+E  509 14:46 2:q4101 193 bmot-sda8d06219  90     5    50  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:47:54   1 0 791 2428 0             jagvinsi
+E  510 14:48  1:j402 228 umot-09014195001w  90     0    21    -4  400 nxt1md16sl14-1   Skew
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:50:03   2 0 792 2256 0             jagvinsi
+E  511 14:50  3:m351 191 umot-39014236003  90     0   162     1    6 nxt1md14sl3-1   Left Off  Right Off
+E  511 14:50 3:q4101 194 bmot-sda8d06219  90    43    51  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:51:13   1 0 793 2656 0             jagvinsi
+E  512 14:51 3:q4101 194 bmot-sda8d06219  90    47    54  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:53:15   2 0 794 2429 0             jagvinsi
+E  513 14:53 3:q4101 190 bmot-sda8d06219  90    46    49  1800 1000 nxt1md11sl20-1   Polarity
+E  513 14:53  4:m303 252 umot-sca8c71817  90     0   192    22  40e nxt1md10sl3-1   Left Off  Right Off  Hor Off  Skew
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:54:22   1 0 795 2656 0             jagvinsi
+E  514 14:54 4:r5302  91 rmot-0613952t01   0   -18    25     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:55:37   3 0 796 2992 0             jagvinsi
+E  515 14:55 3:fl7501 197 bmot-sf68c47813 270     2     9  1800 1000 nxt1md9sl16-1   Polarity
+E  515 14:55 2:q4101 187 bmot-sda8d06219  90    26    55  1800 1000 nxt1md11sl20-1   Polarity
+E  515 14:55 2:fl7501 197 bmot-sf68c47813 270    35    -5  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_14:56:51   1 0 797 2256 0             jagvinsi
+E  516 14:57 2:q4101 193 bmot-sda8d06219  90    12    54  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:00:20   1 0 798 2429 0             jagvinsi
+E  517 15:00 3:q4101 184 bmot-sda8d06219  90    52    46  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:00:48   1 0 799 3008 0             jagvinsi
+E  518 15:00 4:r2668  80 rmot-0613952v30  90   -12     9    17    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:01:28   1 0 800 2841 0             jagvinsi
+E  519 15:01 2:u4130 195 bmot-sc98c30584   0     1     0  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:02:03   2 0 801 2256 0             jagvinsi
+E  520 15:02 3:fl7501 195 bmot-sf68c47813 270   -11   -37  1800 1000 nxt1md9sl16-1   Polarity
+E  520 15:02 2:q4101 194 bmot-sda8d06219  90     8    47  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:02:37  12 0 802 3105 0             jagvinsi
+E  521 15:02 3:r1006  41 rmot-0613952t01 180     0    11     0    1 nxt1md1sl13-1   Missing
+E  521 15:02 4:r1001  27 rmot-0613952t01 270    14     0     0    1 nxt1md1sl13-1   Missing
+E  521 15:02 4:c6431  74 cmot-sc49a6n1g4  90    44   -14     0    1 nxt1md4sl10-1   Missing
+E  521 15:02 4:c7129  94 cmot-sc49a6n1g4 180    18     6   -17    1 nxt1md4sl10-1   Missing
+E  521 15:02 4:r1006  33 rmot-0613952t01   0    -9     3    17    1 nxt1md1sl13-1   Missing
+E  521 15:02 1:r2609  12 rmot-0613952t01 180    66    37    17    1 nxt1md1sl13-1   Missing
+E  521 15:02 1:c6431  65 cmot-sc49a6n1g4  90    57   -14     0    1 nxt1md4sl10-1   Missing
+E  521 15:02 2:r4066  14 rmot-0613952t01  90    17     0     0    1 nxt1md1sl13-1   Missing
+E  521 15:02 2:c6431  32 cmot-sc49a6n1g4 270    36    -4    17    1 nxt1md4sl10-1   Missing
+E  521 15:02 2:r1001  13 rmot-0613952t01  90     3     9   -17    1 nxt1md1sl13-1   Missing
+E  521 15:02 1:r4066  80 rmot-0613952t01 270     4     0     0    1 nxt1md1sl13-1   Missing
+E  521 15:02 1:c7030  84 cmot-sc49a6n1g4 180     8     6     0    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:04:01   3 0 803 2429 0             jagvinsi
+E  522 15:04 4:r5303 103 rmot-0613952t01   0   -18    35     0    1 nxt1md1sl13-1   Missing
+E  522 15:04 3:q4101 188 bmot-sda8d06219  90    53    41  1800 1000 nxt1md11sl20-1   Polarity
+E  522 15:04 2:q4101 190 bmot-sda8d06219  90    13    53  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:05:21   0 0 804 3008 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:06:14   0 0 805 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:07:27   1 0 806 2969 0             jagvinsi
+E  525 15:07 2:fl7501 160 bmot-sf68c47813 270    32   -32  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:08:48   0 0 807 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:10:17   3 0 808 2256 0             jagvinsi
+E  527 15:10 1:fl7660 200 bmot-sf68c47899  90   136    15   104  408 nxt1md8sl15-1   Hor Off  Skew
+E  527 15:10 2:q4101 194 bmot-sda8d06219  90     7    13  1800 1000 nxt1md11sl20-1   Polarity
+E  527 15:10 2:r2668  81 rmot-0613952v30 270   -33     0    -1    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:11:44   0 0 809 2872 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:13:05   0 0 810 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:14:21   0 0 811 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:15:51   0 0 812 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:17:17   2 0 813 2651 0             jagvinsi
+E  532 15:17 1:fl7612 178 bmot-sf68c93109 180   135   -53     2    6 nxt1md12sl4-1   Left Off  Right Off
+E  532 15:17 2:q4101 193 bmot-sda8d06219  90     0    47  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:18:29   1 0 814 2429 0             jagvinsi
+E  533 15:18 3:r5303  79 rmot-0613952t01 180   -18    18     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:20:01   3 0 815 2429 0             jagvinsi
+E  534 15:20 3:fl7501 199 bmot-sf68c47813 270     1    -3  1800 1000 nxt1md9sl16-1   Polarity
+E  534 15:20 3:q4101 189 bmot-sda8d06219  90    44    60  1800 1000 nxt1md11sl20-1   Polarity
+E  534 15:20 3:r5302  65 rmot-0613952t01 180     0    35    -1    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:21:15   2 0 816 2656 0             jagvinsi
+E  535 15:21 4:r2668  85 rmot-0613952v30  90    -5     0     0    1 nxt1md5sl6-1   Missing
+E  535 15:21 2:q4101 191 bmot-sda8d06219  90    -9    54  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:23:10   0 0 817 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:27:11   0 0 818 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:28:05   7 0 819 3125 0             jagvinsi
+E  538 15:28 3:r1006  29 rmot-0613952t01 180     9    20   -17    1 nxt1md1sl13-1   Missing
+E  538 15:28 4:r1001  27 rmot-0613952t01 270    25     9   -17    1 nxt1md1sl13-1   Missing
+E  538 15:28 4:r2609  30 rmot-0613952t01 180   -18    21     0    1 nxt1md1sl13-1   Missing
+E  538 15:28 2:r4066  44 rmot-0613952t01  90    37     0     0    1 nxt1md1sl13-1   Missing
+E  538 15:28 2:r1001  31 rmot-0613952t01  90    15     9    17    1 nxt1md1sl13-1   Missing
+E  538 15:28 1:r4066  31 rmot-0613952t01 270    26   -18     0    1 nxt1md1sl13-1   Missing
+E  538 15:28 1:r1006  40 rmot-0613952t01   0   -37     9     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:28:35   2 0 820 2256 0             jagvinsi
+E  539 15:28 4:r2670  82 rmot-0613952v30   0   -18    43     0    1 nxt1md5sl6-1   Missing
+E  539 15:28 2:q4101 194 bmot-sda8d06219  90    24    31  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:30:37   0 0 821 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:32:01   1 0 822 2392 0             jagvinsi
+E  541 15:32 2:q4101 189 bmot-sda8d06219  90     1    40  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:33:38   8 0 823 2786 0             jagvinsi
+E  542 15:33 3:r1006  20 rmot-0613952t01 180     9    15    17    1 nxt1md1sl13-1   Missing
+E  542 15:33 4:r1001   8 rmot-0613952t01 270    12     0     0    1 nxt1md1sl13-1   Missing
+E  542 15:33 4:r2609  36 rmot-0613952t01 180   -18    17     0    1 nxt1md1sl13-1   Missing
+E  542 15:33 4:r4066  39 rmot-0613952t01 270    16     0     0    1 nxt1md1sl13-1   Missing
+E  542 15:33 1:r2609  68 rmot-0613952t01 180    75    25     0    1 nxt1md1sl13-1   Missing
+E  542 15:33 2:r4066  34 rmot-0613952t01  90    14     9    17    1 nxt1md1sl13-1   Missing
+E  542 15:33 2:r1001  34 rmot-0613952t01  90    24    18     0    1 nxt1md1sl13-1   Missing
+E  542 15:33 1:r4066  54 rmot-0613952t01 270     6    -9   -17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:35:13  12 0 824 3125 0             jagvinsi
+E  543 15:35 3:r1006  38 rmot-0613952t01 180     0    12     0    1 nxt1md1sl13-1   Missing
+E  543 15:35 4:r1001   8 rmot-0613952t01 270    12    -9    17    1 nxt1md1sl13-1   Missing
+E  543 15:35 4:r2609  12 rmot-0613952t01 180   -18    15     0    1 nxt1md1sl13-1   Missing
+E  543 15:35 4:r4066  31 rmot-0613952t01 270    12    -9   -17    1 nxt1md1sl13-1   Missing
+E  543 15:35 4:r1006  59 rmot-0613952t01   0     0     6     0    1 nxt1md1sl13-1   Missing
+E  543 15:35  4:m201  44 umot-39014236003  90     0   161    -3    1 nxt1md14sl3-1   Missing
+E  543 15:35 1:r4900 152 rmot-0613952y17 270   153    18     0    8 nxt1md7sl20-1   Hor Off
+E  543 15:35 1:r2609  55 rmot-0613952t01 180    75    22     0    1 nxt1md1sl13-1   Missing
+E  543 15:35 2:r4066  51 rmot-0613952t01  90    48     0     0    1 nxt1md1sl13-1   Missing
+E  543 15:35 2:r1001  20 rmot-0613952t01  90     5     0     0    1 nxt1md1sl13-1   Missing
+E  543 15:35 1:r4066  54 rmot-0613952t01 270    14     0     0    1 nxt1md1sl13-1   Missing
+E  543 15:35 1:r1006  45 rmot-0613952t01   0   -28     1    17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:36:31   1 0 825 3008 0             jagvinsi
+E  544 15:36 3:u4130 194 bmot-sc98c30584   0    21    -3  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:49:14   2 0 826 2841 0             jagvinsi
+E  545 15:49 2:q4101 193 bmot-sda8d06219  90    13    39  1800 1000 nxt1md11sl20-1   Polarity
+E  545 15:49 2:r2668  88 rmot-0613952v30 270   -30     0     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:49:40   1 0 827 2841 0             jagvinsi
+E  546 15:49 2:u4130 195 bmot-sc98c30584   0    10     6  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:50:04   9 0 828 3125 0             jagvinsi
+E  547 15:50 3:r1006  28 rmot-0613952t01 180     0    10     0    1 nxt1md1sl13-1   Missing
+E  547 15:50 4:r1001  25 rmot-0613952t01 270    21     9   -17    1 nxt1md1sl13-1   Missing
+E  547 15:50 4:r2609  38 rmot-0613952t01 180   -18    25     0    1 nxt1md1sl13-1   Missing
+E  547 15:50  4:m201  44 umot-39014236003  90     0   137    -3    1 nxt1md14sl3-1   Missing
+E  547 15:50 1:r2609  79 rmot-0613952t01 180    75    28     0    1 nxt1md1sl13-1   Missing
+E  547 15:50 2:r4066  75 rmot-0613952t01  90    26     0     0    1 nxt1md1sl13-1   Missing
+E  547 15:50 2:r1001  27 rmot-0613952t01  90    23     9   -17    1 nxt1md1sl13-1   Missing
+E  547 15:50 1:r4066  33 rmot-0613952t01 270    -3    -9   -17    1 nxt1md1sl13-1   Missing
+E  547 15:50 1:r1006  13 rmot-0613952t01   0   -37    20     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:50:35   1 0 829 2656 0             jagvinsi
+E  548 15:50 2:q4101 186 bmot-sda8d06219  90    20    27  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:51:02   1 0 830 2429 0             jagvinsi
+E  549 15:51 3:r5303  77 rmot-0613952t01 180     0    19     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:51:25   9 0 831 2786 0             jagvinsi
+E  550 15:51 3:r1006  27 rmot-0613952t01 180    18    18     0    1 nxt1md1sl13-1   Missing
+E  550 15:51 4:r1001   9 rmot-0613952t01 270    13     0     0    1 nxt1md1sl13-1   Missing
+E  550 15:51 4:r2609  20 rmot-0613952t01 180    -9    25   -17    1 nxt1md1sl13-1   Missing
+E  550 15:51  4:m201  41 umot-39014236003  90     0   140    -3    1 nxt1md14sl3-1   Missing
+E  550 15:51 1:r2609  59 rmot-0613952t01 180    75    33     0    1 nxt1md1sl13-1   Missing
+E  550 15:51 2:r4066  30 rmot-0613952t01  90    33     0     0    1 nxt1md1sl13-1   Missing
+E  550 15:51 2:r1001  59 rmot-0613952t01  90    25     0     0    1 nxt1md1sl13-1   Missing
+E  550 15:51 2:r2609  50 rmot-0613952t01   0    -9     0   -17    1 nxt1md1sl13-1   Missing
+E  550 15:51 1:r4066  62 rmot-0613952t01 270     5    -9    17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:51:57   1 0 832 2256 0             jagvinsi
+E  551 15:52 2:q4101 194 bmot-sda8d06219  90     7    35  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:52:23   2 0 833 2841 0             jagvinsi
+E  552 15:52 3:q4101 191 bmot-sda8d06219  90    37    55  1800 1000 nxt1md11sl20-1   Polarity
+E  552 15:52 2:u4130 196 bmot-sc98c30584   0    11    -1  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:53:24   0 0 834 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:54:36   0 0 835 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:56:08   8 0 836 2786 0             jagvinsi
+E  555 15:56 3:r1006   8 rmot-0613952t01 180     0    17     0    1 nxt1md1sl13-1   Missing
+E  555 15:56 4:r1001  27 rmot-0613952t01 270    14     0     0    1 nxt1md1sl13-1   Missing
+E  555 15:56 4:r4066  29 rmot-0613952t01 270    20   -18     0    1 nxt1md1sl13-1   Missing
+E  555 15:56 1:r4900 148 rmot-0613952y17 270   153    18     0    8 nxt1md7sl20-1   Hor Off
+E  555 15:56 1:r2609  27 rmot-0613952t01 180   104    27    17    1 nxt1md1sl13-1   Missing
+E  555 15:56 2:r4066  22 rmot-0613952t01  90    30     0     0    1 nxt1md1sl13-1   Missing
+E  555 15:56 2:r1001  36 rmot-0613952t01  90    13    47    53    1 nxt1md1sl13-1   Missing
+E  555 15:56 1:r4066  40 rmot-0613952t01 270     5    -9   -17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:57:00   3 0 837 2256 0             jagvinsi
+E  556 15:57 4:r2668  83 rmot-0613952v30  90    20     0     0    1 nxt1md5sl6-1   Missing
+E  556 15:57 3:r5303  54 rmot-0613952t01 180     9    11    17    1 nxt1md1sl13-1   Missing
+E  556 15:57 1:r5302 107 rmot-0613952t01   0    56    11     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_15:58:20   1 0 838 2256 0             jagvinsi
+E  557 15:58 1:r2668  87 rmot-0613952v30  90    65     9    17    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_15:59:19  11 0 839 3125 0             jagvinsi
+E  558 15:59 3:r1006  36 rmot-0613952t01 180     9    29    17    1 nxt1md1sl13-1   Missing
+E  558 15:59 3:r1130 111 rmot-0613952y11   0     9   -18   -17 4000 nxt1md6sl5-1   Billboard
+E  558 15:59 4:r1001  32 rmot-0613952t01 270     0     0     0    1 nxt1md1sl13-1   Missing
+E  558 15:59 4:r2609  38 rmot-0613952t01 180     0    13     0    1 nxt1md1sl13-1   Missing
+E  558 15:59 1:r2609  49 rmot-0613952t01 180    75    25     0    1 nxt1md1sl13-1   Missing
+E  558 15:59 2:r4066  25 rmot-0613952t01  90    32     0     0    1 nxt1md1sl13-1   Missing
+E  558 15:59 2:r1130 104 rmot-0613952y11   0   -37   -22     0 4000 nxt1md6sl5-1   Billboard
+E  558 15:59 2:r1001  42 rmot-0613952t01  90    14     0     0    1 nxt1md1sl13-1   Missing
+E  558 15:59 2:r2609  70 rmot-0613952t01   0   -18     5     0    1 nxt1md1sl13-1   Missing
+E  558 15:59 1:r4066  60 rmot-0613952t01 270     0     9    17    1 nxt1md1sl13-1   Missing
+E  558 15:59 1:r1006  42 rmot-0613952t01   0   -37    20     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:00:39  12 0 840 3125 0             jagvinsi
+E  559 16:00 3:r1006  59 rmot-0613952t01 180    18     2     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 3:r1130 113 rmot-0613952y11   0     9   -16   -17 4000 nxt1md6sl5-1   Billboard
+E  559 16:00 4:r1001  25 rmot-0613952t01 270     1     0     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 4:r2609  83 rmot-0613952t01 180     0    21     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 4:r4066  43 rmot-0613952t01 270    19    -9    17    1 nxt1md1sl13-1   Missing
+E  559 16:00 1:r4900 151 rmot-0613952y17 270   155    18     0    8 nxt1md7sl20-1   Hor Off
+E  559 16:00 1:r2609  48 rmot-0613952t01 180    75    43     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 2:r4066  10 rmot-0613952t01  90    17     0     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 2:r1001  18 rmot-0613952t01  90    19     9   -17    1 nxt1md1sl13-1   Missing
+E  559 16:00 2:r2609  28 rmot-0613952t01   0   -18     4     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 1:r4066  72 rmot-0613952t01 270    -3     0     0    1 nxt1md1sl13-1   Missing
+E  559 16:00 1:r1006  20 rmot-0613952t01   0   -37    17     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:02:05   2 0 841 2256 0             jagvinsi
+E  560 16:02 3:q4101 188 bmot-sda8d06219  90    43    40  1800 1000 nxt1md11sl20-1   Polarity
+E  560 16:02 2:q4101 192 bmot-sda8d06219  90    16    54  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:03:01  10 0 842 3125 0             jagvinsi
+E  561 16:03 3:r1006  36 rmot-0613952t01 180     0    23     0    1 nxt1md1sl13-1   Missing
+E  561 16:03 4:r1001  27 rmot-0613952t01 270    29     9   -17    1 nxt1md1sl13-1   Missing
+E  561 16:03  4:m201  44 umot-39014236003  90     0   139    -2    1 nxt1md14sl3-1   Missing
+E  561 16:03 1:c1397 162 cmot-2113946u01  90   152   -23    17    8 nxt1md2sl11-1   Hor Off
+E  561 16:03 1:r4900 134 rmot-0613952y17 270   158    18     0    8 nxt1md7sl20-1   Hor Off
+E  561 16:03 1:r2609  80 rmot-0613952t01 180    75    40     0    1 nxt1md1sl13-1   Missing
+E  561 16:03 2:r4066  20 rmot-0613952t01  90    50    18     0    1 nxt1md1sl13-1   Missing
+E  561 16:03 2:r1001  24 rmot-0613952t01  90    19    18     0    1 nxt1md1sl13-1   Missing
+E  561 16:03 1:r4066  22 rmot-0613952t01 270    19     0     0    1 nxt1md1sl13-1   Missing
+E  561 16:03 1:r1006  36 rmot-0613952t01   0   -28    22   -17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:04:23  12 0 843 3125 0             jagvinsi
+E  562 16:04 3:r1006  15 rmot-0613952t01 180     0     9     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 4:r1001  42 rmot-0613952t01 270    20     0     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 4:r2609  59 rmot-0613952t01 180    -9    17   -17    1 nxt1md1sl13-1   Missing
+E  562 16:04 4:r4066  16 rmot-0613952t01 270    23     0     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 4:r1006  24 rmot-0613952t01   0     0    21     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 1:r4900 142 rmot-0613952y17 270   156    18     0    8 nxt1md7sl20-1   Hor Off
+E  562 16:04 1:r1001  18 rmot-0613952t01 270    36     0     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 1:r2609  66 rmot-0613952t01 180    75    36     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 2:r4066  31 rmot-0613952t01  90    32    -9   -17    1 nxt1md1sl13-1   Missing
+E  562 16:04 2:r1001  38 rmot-0613952t01  90     9     0     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 1:r4066  49 rmot-0613952t01 270     8     0     0    1 nxt1md1sl13-1   Missing
+E  562 16:04 1:r1006  31 rmot-0613952t01   0   -28     8    17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:05:38  10 0 844 3125 0             jagvinsi
+E  563 16:05 3:r1006  34 rmot-0613952t01 180     9     0   -17    1 nxt1md1sl13-1   Missing
+E  563 16:05 4:r1001  15 rmot-0613952t01 270     9    -9   -17    1 nxt1md1sl13-1   Missing
+E  563 16:05 4:r2609  45 rmot-0613952t01 180    -9     3   -17    1 nxt1md1sl13-1   Missing
+E  563 16:05 4:r1006  11 rmot-0613952t01   0    18    -5     0    1 nxt1md1sl13-1   Missing
+E  563 16:05 1:c1396 159 cmot-2113946u01  90   151    14    17    8 nxt1md2sl11-1   Hor Off
+E  563 16:05 1:r2609  56 rmot-0613952t01 180    75    34     0    1 nxt1md1sl13-1   Missing
+E  563 16:05 2:r4066  17 rmot-0613952t01  90    40     9    17    1 nxt1md1sl13-1   Missing
+E  563 16:05 2:r1001  34 rmot-0613952t01  90    14     9    17    1 nxt1md1sl13-1   Missing
+E  563 16:05 1:r4066  38 rmot-0613952t01 270    15     0     0    1 nxt1md1sl13-1   Missing
+E  563 16:05 1:r1006  45 rmot-0613952t01   0   -37    10     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:07:04   1 0 845 2429 0             jagvinsi
+E  564 16:07 3:r5302  86 rmot-0613952t01 180     0    29     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:08:21   3 0 846 2256 0             jagvinsi
+E  565 16:08 4:r5303  86 rmot-0613952t01   0   -37    52     0    1 nxt1md1sl13-1   Missing
+E  565 16:08 4:r2668  89 rmot-0613952v30  90    -3     0     0    1 nxt1md5sl6-1   Missing
+E  565 16:08 3:r5303  94 rmot-0613952t01 180     0     7     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:10:48   3 0 847 2256 0             jagvinsi
+E  566 16:11 3:vr100 189 rmot-sf68d03790   0   -18    26     0 20000 nxt1md7sl3-1   Flipped
+E  566 16:11 3:q4101 192 bmot-sda8d06219  90    35    25  1800 1000 nxt1md11sl20-1   Polarity
+E  566 16:11 2:r2668  86 rmot-0613952v30 270   -46     9    17    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:11:49  10 0 848 3093 0             jagvinsi
+E  567 16:12 3:r1006  34 rmot-0613952t01 180     9    10    17    1 nxt1md1sl13-1   Missing
+E  567 16:12 4:r1001  17 rmot-0613952t01 270    24     9   -17    1 nxt1md1sl13-1   Missing
+E  567 16:12 4:r2609  29 rmot-0613952t01 180    -9    15   -17    1 nxt1md1sl13-1   Missing
+E  567 16:12 1:u8010 188 bmot-sc98c31028   0   133   -23    -1    6 nxt1md18sl12-1   Left Off  Right Off
+E  567 16:12 1:r1001  24 rmot-0613952t01 270    30    -9   -17    1 nxt1md1sl13-1   Missing
+E  567 16:12 1:r2609  70 rmot-0613952t01 180    75    27     0    1 nxt1md1sl13-1   Missing
+E  567 16:12 2:r4066  55 rmot-0613952t01  90    37     0     0    1 nxt1md1sl13-1   Missing
+E  567 16:12 2:r1001  42 rmot-0613952t01  90    21     0     0    1 nxt1md1sl13-1   Missing
+E  567 16:12 2:r2609  97 rmot-0613952t01   0    -9    12   -17    1 nxt1md1sl13-1   Missing
+E  567 16:12 1:r4066  70 rmot-0613952t01 270     9     0     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:12:45  12 0 849 3125 0             jagvinsi
+E  568 16:13 3:r1006  22 rmot-0613952t01 180    18    18     0    1 nxt1md1sl13-1   Missing
+E  568 16:13 4:r1001  14 rmot-0613952t01 270    14     0     0    1 nxt1md1sl13-1   Missing
+E  568 16:13 4:r2609  18 rmot-0613952t01 180    -9    17    17    1 nxt1md1sl13-1   Missing
+E  568 16:13 4:r4066  46 rmot-0613952t01 270    24    -9   -17    1 nxt1md1sl13-1   Missing
+E  568 16:13 4:r1006  25 rmot-0613952t01   0     0     4     0    1 nxt1md1sl13-1   Missing
+E  568 16:13  4:m201  44 umot-39014236003  90     0   140    -3    1 nxt1md14sl3-1   Missing
+E  568 16:13 1:c1396 157 cmot-2113946u01  90   153     4     0    8 nxt1md2sl11-1   Hor Off
+E  568 16:13 1:r2609  84 rmot-0613952t01 180    75    28     0    1 nxt1md1sl13-1   Missing
+E  568 16:13 2:r4066  40 rmot-0613952t01  90    41     0     0    1 nxt1md1sl13-1   Missing
+E  568 16:13 2:r1001  27 rmot-0613952t01  90     4     0     0    1 nxt1md1sl13-1   Missing
+E  568 16:13 1:r4066  52 rmot-0613952t01 270     7     0     0    1 nxt1md1sl13-1   Missing
+E  568 16:13 1:r1006  33 rmot-0613952t01   0   -37    16     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:13:14   1 0 850 2841 0             jagvinsi
+E  569 16:13 3:q4101 192 bmot-sda8d06219  90    54    47  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:14:20   6 0 851 2786 0             jagvinsi
+E  570 16:14 3:r1006  12 rmot-0613952t01 180     0    11     0    1 nxt1md1sl13-1   Missing
+E  570 16:14 4:r1001  15 rmot-0613952t01 270     6   -18     0    1 nxt1md1sl13-1   Missing
+E  570 16:14 1:r2609  46 rmot-0613952t01 180    75    40     0    1 nxt1md1sl13-1   Missing
+E  570 16:14 2:r4066  31 rmot-0613952t01  90    41     0     0    1 nxt1md1sl13-1   Missing
+E  570 16:14 2:r1001  42 rmot-0613952t01  90    10     0     0    1 nxt1md1sl13-1   Missing
+E  570 16:14 1:r4066  64 rmot-0613952t01 270    11   -18     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:16:39   0 0 852 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:17:39   2 0 853 2256 0             jagvinsi
+E  572 16:17  3:m351 195 umot-39014236003  90     0   165     3    6 nxt1md14sl3-1   Left Off  Right Off
+E  572 16:17 2:q4101 191 bmot-sda8d06219  90    10    55  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:18:32  10 0 854 3125 0             jagvinsi
+E  573 16:18 3:r1006  24 rmot-0613952t01 180    18    23     0    1 nxt1md1sl13-1   Missing
+E  573 16:18 3:r4066  34 rmot-0613952t01  90    27    -9   -17    1 nxt1md1sl13-1   Missing
+E  573 16:18 4:r1001  14 rmot-0613952t01 270    25     0     0    1 nxt1md1sl13-1   Missing
+E  573 16:18 4:r2609  28 rmot-0613952t01 180    -9    11   -17    1 nxt1md1sl13-1   Missing
+E  573 16:18 4:r4066  43 rmot-0613952t01 270    25     0     0    1 nxt1md1sl13-1   Missing
+E  573 16:18 2:r4066  15 rmot-0613952t01  90    29     0     0    1 nxt1md1sl13-1   Missing
+E  573 16:18 2:r1001  22 rmot-0613952t01  90    24     0     0    1 nxt1md1sl13-1   Missing
+E  573 16:18 2:r2609  75 rmot-0613952t01   0    -9    14   -17    1 nxt1md1sl13-1   Missing
+E  573 16:18 1:r4066  27 rmot-0613952t01 270     6     0     0    1 nxt1md1sl13-1   Missing
+E  573 16:18 1:r1006  20 rmot-0613952t01   0   -37    11     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:19:23   1 0 855 2429 0             jagvinsi
+E  574 16:19 1:r3300 175 rmot-0613952x29   0   -28    18    17 200000 nxt1md5sl17-1   Paste
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:20:28   9 0 856 3125 0             jagvinsi
+E  575 16:20 3:r1006  40 rmot-0613952t01 180     9     8    17    1 nxt1md1sl13-1   Missing
+E  575 16:20 4:r1001  21 rmot-0613952t01 270    11     9   -17    1 nxt1md1sl13-1   Missing
+E  575 16:20 1:r4900 144 rmot-0613952y17 270   153    28    17    8 nxt1md7sl20-1   Hor Off
+E  575 16:20 1:r2609  50 rmot-0613952t01 180    75    31     0    1 nxt1md1sl13-1   Missing
+E  575 16:20 2:r4066  45 rmot-0613952t01  90    31     0     0    1 nxt1md1sl13-1   Missing
+E  575 16:20 2:r1001  20 rmot-0613952t01  90    15     9   -17    1 nxt1md1sl13-1   Missing
+E  575 16:20 2:r2609  41 rmot-0613952t01   0   -28     7    17    1 nxt1md1sl13-1   Missing
+E  575 16:20 1:r4066  44 rmot-0613952t01 270    -9   -18     0    1 nxt1md1sl13-1   Missing
+E  575 16:20 1:r1006  22 rmot-0613952t01   0   -28     6   -17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:21:51   1 0 857 2656 0             jagvinsi
+E  576 16:22 3:q4101 193 bmot-sda8d06219  90    53    44  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:23:07   1 0 858 2256 0             jagvinsi
+E  577 16:23 3:q4101 191 bmot-sda8d06219  90    40    39  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:24:08   8 0 859 3125 1             jagpacar
+E  578 16:25 3:r1006  20 rmot-0613952t01 180    18    15     0    1 nxt1md1sl13-1   Missing
+E  578 16:25 4:r1001  40 rmot-0613952t01 270    24     0     0    1 nxt1md1sl13-1   Missing
+E  578 16:25 1:c1396 162 cmot-2113946u01  90   150    23     0    8 nxt1md2sl11-1   Hor Off
+E  578 16:25 1:r2609  24 rmot-0613952t01 180    66    50   -17    1 nxt1md1sl13-1   Missing
+E  578 16:25 2:r4066  33 rmot-0613952t01  90    15     0     0    1 nxt1md1sl13-1   Missing
+E  578 16:25 2:r1001  11 rmot-0613952t01  90    -3     0     0    1 nxt1md1sl13-1   Missing
+E  578 16:25 1:r4066  35 rmot-0613952t01 270     9    18     0    1 nxt1md1sl13-1   Missing
+E  578 16:25 1:r1006  34 rmot-0613952t01   0   -37    12     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:25:18 3011 0 860 40 1             jagpacar
+E  579 16:26 4:lp5622   1 cmot-24014118002 180   -38     9     0 4001 nxt1md14sl12-1   Missing  Billboard
+E  579 16:26 4:lp5621   1 cmot-24014118002 180   -57     5     0    1 nxt1md14sl12-1   Missing
+E  579 16:26 4:m4163 172 umot-sca8c71817   0    54     0    -7    1 nxt1md10sl3-1   Missing
+E  579 16:26 4:m4164 172 umot-sca8c71817   0   -43     0     0    1 nxt1md10sl3-1   Missing
+E  579 16:26 4:u7091  37 bmot-sc98d05522 180  -322   327  1800 100f nxt1md14sl16-1   Missing  Left Off  Right Off  Hor Off  Polarity
+E  579 16:26 4:r7008  64 cmot-0613952r66   0     0    -1     0    1 nxt1md10sl10-1   Missing
+E  579 16:26 4:z7050  44 rmot-24014052027 270    55   -18     0    1 nxt1md3sl9-1   Missing
+E  579 16:26 4:z7890   8 rmot-24014052009 270    78    -9    17    1 nxt1md1sl10-1   Missing
+E  579 16:26 4:z7548  26 rmot-24014052005  90    43    -9    17    1 nxt1md9sl12-1   Missing
+E  579 16:26 4:c7090  39 cmot-sc48c24918  90   108   -35     0    1 nxt1md10sl12-1   Missing
+E  579 16:26 4:r1871 138 rmot-0613952x73  90    36     0     0 200000 nxt1md5sl12-1   Paste
+E  579 16:26 4:c8842  41 cmot-2113946u01   0    27   -21     0 4001 nxt1md2sl11-1   Missing  Billboard
+E  579 16:26 4:r1867 112 rmot-0613952y25 270    34    -9    17 200001 nxt1md1sl7-1   Missing  Paste
+E  579 16:26 4:c8836  41 cmot-2113946u01 180    37   -18    17 200001 nxt1md2sl11-1   Missing  Paste
+E  579 16:26 4:r1869 126 rmot-0613952x73 270    39    -9   -17    1 nxt1md5sl12-1   Missing
+E  579 16:26 4:z7115   0 rmot-24014052017   0     0     2     0    1 nxt1md7sl12-1   Missing
+E  579 16:26 4:z7404   0 cmot-2113944e16  90    63   -23    17    1 nxt1md3sl10-1   Missing
+E  579 16:26 4:c7404   0 cmot-2113944e23  90    53   -23   -17    1 nxt1md3sl11-1   Missing
+E  579 16:26 4:c7405   0 cmot-2113944e23 270    52   -23   -17    1 nxt1md3sl11-1   Missing
+E  579 16:26 4:c7406   0 cmot-2113944e23 270    44   -23    17    1 nxt1md3sl11-1   Missing
+E  579 16:26 4:r7401  63 rmot-0613952y66 270    36    -9    17    1 nxt1md8sl11-1   Missing
+E  579 16:26 4:u8800   4 bmot-sc98c95844 180  -507  -584  1800 100f nxt1md19sl12-1   Missing  Left Off  Right Off  Hor Off  Polarity
+E  579 16:26 4:c7403   0 cmot-2113944e23 270    57   -23    17    1 nxt1md3sl11-1   Missing
+E  579 16:26 4:r1866 132 rmot-0613952y25 270    38     0     0 200000 nxt1md1sl7-1   Paste
+E  579 16:26 4:fl1886  57 smot-25014004001 180    37    31    -3    1 nxt1md11sl14-1   Missing
+E  579 16:26 4:r1868 124 rmot-0613952x73 270    43     9    17 200001 nxt1md5sl12-1   Missing  Paste
+E  579 16:26  4:j401  16 bmot-09014068001w   0   437  -512  1800 100f nxt1md15sl7-1   Missing  Left Off  Right Off  Hor Off  Polarity
+E  579 16:26 4:z7407   0 rmot-24014052013   0   -18     8    35    1 nxt1md7sl13-1   Missing
+E  579 16:26 4:r1872 112 rmot-0613952x73 270    35     9    17 200001 nxt1md5sl12-1   Missing  Paste
+E  579 16:26 4:fl1887  53 smot-25014004001 180    39    29    -2    1 nxt1md11sl14-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:27:40   2 0 861 2844 1             jagpacar
+E  580 16:28  1:l273 134 cmot-24014300153  90   -11    -4     0 200000 nxt1md11sl19-1   Paste
+E  580 16:28  2:l273 135 cmot-24014300153 270    36   -14   -10 200000 nxt1md11sl19-1   Paste
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:28:31 3127 0 862 40 1             jagpacar
+E  581 16:29 3:m1611  48 umot-sca8c71861 270  -307     0     0    9 nxt1md16sl10-1   Missing  Hor Off
+E  581 16:29 3:r7127  38 rmot-0613952y66 270    17     0     0 200001 nxt1md8sl11-1   Missing  Paste
+E  581 16:29 3:c7133   8 cmot-2113944e23   0    27    55     0    1 nxt1md4sl11-1   Missing
+E  581 16:29 3:c7129  18 cmot-sc49a6n1g4   0    18    71   -17 200001 nxt1md4sl10-1   Missing  Paste
+E  581 16:29 3:c7130  15 cmot-2113944e23   0     8    72     0    1 nxt1md4sl11-1   Missing
+E  581 16:29 3:c7441  44 cmot-2170282f01   0     8    45     0 200001 nxt1md11sl11-1   Missing  Paste
+E  581 16:29 3:l7133  50 cmot-24014052018 180    18    38    17    1 nxt1md9sl8-1   Missing
+E  581 16:29 3:c7136  43 rmot-24014052016 180     0    77     0    1 nxt1md11sl9-1   Missing
+E  581 16:29 3:u7033 107 bmot-sc98c92055   0  -247  -296   -46    f nxt1md13sl8-1   Missing  Left Off  Right Off  Hor Off
+E  581 16:29 3:c7131  15 cmot-2113944e17   0    27     4     0    1 nxt1md9sl11-1   Missing
+E  581 16:29 3:c7128  32 cmot-24014052005   0     8    52     0    1 nxt1md9sl12-1   Missing
+E  581 16:29 3:fl7321  47 bmot-sf68c33802 270  -185  -261     0    f nxt1md9sl7-1   Missing  Left Off  Right Off  Hor Off
+E  581 16:29 3:z7767  26 cmot-24014052026 180     8    37     0 200001 nxt1md7sl5-1   Missing  Paste
+E  581 16:29 3:z7310  54 cmot-24014052019   0    18    38   -17 200001 nxt1md11sl8-1   Missing  Paste
+E  581 16:29 3:z7362  58 rmot-24014052014   0     0   111     0    1 nxt1md8sl10-1   Missing
+E  581 16:29 3:z7326   2 rmot-24014052009  90   -78   -18     0 200001 nxt1md1sl10-1   Missing  Paste
+E  581 16:29 3:c4514  81 cmot-21014004001 270    42   -33     0 200001 nxt1md6sl11-1   Missing  Paste
+E  581 16:29 3:c4525   0 cmot-2113944e23   0     0    33   -17 200001 nxt1md3sl11-1   Missing  Paste
+E  581 16:29 3:fl7320  10 bmot-91014486001   0  -280   295    15    f nxt1md14sl5-1   Missing  Left Off  Right Off  Hor Off
+E  581 16:29 3:fl7312  24 bmot-sf68c56202   0  -181  -122  1800 1007 nxt1md9sl15-1   Missing  Left Off  Right Off  Polarity
+E  581 16:29 3:r4599  40 rmot-0613952y01 270     1   -18     0 200001 nxt1md7sl11-1   Missing  Paste
+E  581 16:29 3:z7322   0 cmot-24014052019  90    34   -33    35 200001 nxt1md11sl8-1   Missing  Paste
+E  581 16:29 3:r4514  21 rmot-0613952y66 270    23    -9    17 200001 nxt1md8sl11-1   Missing  Paste
+E  581 16:29 3:c4522  36 cmot-2113944e15 270    15   -14   -35 200001 nxt1md10sl11-1   Missing  Paste
+E  581 16:29 3:u4505  16 bmot-sc98c70261 180  -234  -112  1800 1003 nxt1md15sl15-1   Missing  Left Off  Polarity
+E  581 16:29 3:c4509  83 cmot-21014004001 270    54   -33     0 200001 nxt1md6sl11-1   Missing  Paste
+E  581 16:29 3:rt7399  31 rmot-5r59a6mxgf 270    25   -18     0 200001 nxt1md5sl10-1   Missing  Paste
+E  581 16:29 3:c4526   0 cmot-2113944e23 270    25   -14    35    1 nxt1md3sl11-1   Missing
+E  581 16:29 3:c4523  36 cmot-2113944e15 270    26   -33     0 200001 nxt1md10sl11-1   Missing  Paste
+E  581 16:29 3:c7304   1 cmot-2113944e23  90    37   -33     0 200001 nxt1md4sl11-1   Missing  Paste
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:31:40   1 0 863 2656 1             jagpacar
+E  582 16:32 3:q4101 193 bmot-sda8d06219  90    42    32  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:32:36   0 0 864 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:32:58   2 0 865 2657 0             jagpacar
+E  584 16:33 4:r5303 100 rmot-0613952t01   0   -18    34     0    1 nxt1md1sl13-1   Missing
+E  584 16:33 4:u8860 198 bmot-sc98c95844  90    38   -72  1800 1000 nxt1md19sl12-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:33:24   0 0 866 2392 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:34:07   0 0 867 2441 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:35:21   0 0 868 2374 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:36:43   0 0 869 2935 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:38:10   1 0 870 2244 0             jagpacar
+E  589 16:38  4:m201  43 umot-39014236003  90     0   141    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:39:39   0 0 871 3151 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:41:03   0 0 872 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:42:00   2 0 873 2361 0             jagpacar
+E  592 16:42 4:fl8503 199 bmot-91014306001 180     6  -131  1800 1000 nxt1md9sl14-1   Polarity
+E  592 16:42  4:m201  45 umot-39014236003  90     0   147    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:43:29   1 0 874 2256 0             jagpacar
+E  593 16:43 1:r5302 104 rmot-0613952t01   0    56    -1     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:44:38   1 0 875 2271 0             jagpacar
+E  594 16:44 3:q4101 194 bmot-sda8d06219  90    25    38  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:45:56   1 0 876 2374 0             jagpacar
+E  595 16:46 3:r5303  81 rmot-0613952t01 180   -18    -3     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:47:04   0 0 877 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:48:28   0 0 878 2651 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:49:44   1 0 879 2256 0             jagpacar
+E  598 16:49 4:r5303  50 rmot-0613952t01   0   -18    46     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:50:42   1 0 880 2361 0             jagpacar
+E  599 16:50 1:c1396 161 cmot-2113946u01  90   156    -4   -17    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:52:06   0 0 881 2911 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:53:22   2 0 882 2245 0             jagpacar
+E  601 16:53  4:m201  44 umot-39014236003  90     0   136    -2    1 nxt1md14sl3-1   Missing
+E  601 16:53 1:c1396 163 cmot-2113946u01  90   159     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:54:45   0 0 883 2441 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:55:49   2 0 884 3039 0             jagpacar
+E  603 16:56  4:m201  44 umot-39014236003  90     0   132    -2    1 nxt1md14sl3-1   Missing
+E  603 16:56 1:u1100 161 bmot-sc98c37600   0   119   -16  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:57:16   1 0 885 2392 0             jagpacar
+E  604 16:57 4:r5303  98 rmot-0613952t01   0   -18    48    -1    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_16:58:12   1 0 886 2244 0             jagpacar
+E  605 16:58 3:r1130  97 rmot-0613952y11   0    -9   -28   -17 4000 nxt1md6sl5-1   Billboard
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_16:59:40   0 0 887 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:00:35   1 0 888 2441 0             jagpacar
+E  607 17:00 4:fl8503 197 bmot-91014306001 180    -4  -132  1800 1000 nxt1md9sl14-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:01:51   0 0 889 2316 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:03:20   1 0 890 2361 0             jagpacar
+E  609 17:03 1:c1396 161 cmot-2113946u01  90   150   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:04:55   1 0 891 2361 0             jagpacar
+E  610 17:05 1:r4900 154 rmot-0613952y17 270   183     0     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:06:43   2 0 892 2361 0             jagpacar
+E  611 17:06 4:u1100 188 bmot-sc98c37600   0     8   -24  1800 1000 nxt1md16sl6-1   Polarity
+E  611 17:06 1:r4900 155 rmot-0613952y17 270   167     0     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:08:05   0 0 893 2792 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:09:35   0 0 894 3015 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:11:00   1 0 895 2392 0             jagpacar
+E  614 17:11 3:q4101 181 bmot-sda8d06219  90    31    63  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:12:05   1 0 896 2281 0             jagpacar
+E  615 17:12 1:r1041 200 rmot-06014001001w 270    22   -47   -17 200000 nxt1md6sl7-1   Paste
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:15:39   0 0 897 3151 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:17:01   0 0 898 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:19:33   1 0 899 2244 0             jagpacar
+E  618 17:19 1:u1100 137 bmot-sc98c37600   0   109   -14  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:20:57   0 0 900 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:22:20   2 0 901 3039 0             jagpacar
+E  620 17:22  4:m201  43 umot-39014236003  90     0   137    -3    1 nxt1md14sl3-1   Missing
+E  620 17:22 1:r4900 140 rmot-0613952y17 270   153    18     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:23:44   2 0 902 2244 0             jagpacar
+E  621 17:23 4:m2634  52 umot-sca8c71817  90     0    23    -4    8 nxt1md10sl3-1   Hor Off
+E  621 17:23  4:m201  44 umot-39014236003  90     0   152    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:25:10   1 0 903 2244 0             jagpacar
+E  622 17:25  4:m201  42 umot-39014236003  90     0   136    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:26:35   2 0 904 2429 0             jagpacar
+E  623 17:26 4:l4155 200 bmot-si28c50671  90    28     0  -160  400 nxt1md8sl8-1   Skew
+E  623 17:26 3:r5302  69 rmot-0613952t01 180     9    33    17    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:27:31   1 0 905 2374 0             jagpacar
+E  624 17:27 1:c1396 162 cmot-2113946u01  90   150   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:30:16   1 0 906 2366 0             jagpacar
+E  625 17:30  4:m201  44 umot-39014236003  90     0   137    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:31:01   0 0 907 3058 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:32:19   0 0 908 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:33:32   1 0 909 2256 0             jagpacar
+E  628 17:33 2:q4101 189 bmot-sda8d06219  90     5    40  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:34:36   0 0 910 2949 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:35:57   0 0 911 2823 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:38:47   1 0 912 2244 0             jagpacar
+E  631 17:39 1:u8010 190 bmot-sc98c31028   0   134   -11    -1    6 nxt1md18sl12-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:40:16   2 0 913 2429 0             jagpacar
+E  632 17:40  3:l371 200 rmot-si28c43504   0    -9    43    17 20000 nxt1md5sl8-1   Flipped
+E  632 17:40 2:r5303 109 rmot-0613952t01 180   -18     6     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:41:03   2 0 914 3015 0             jagpacar
+E  633 17:41  4:m201  43 umot-39014236003  90     0   149    -3    1 nxt1md14sl3-1   Missing
+E  633 17:41 1:r4900 145 rmot-0613952y17 270   171    -9    17    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:42:26   0 0 915 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:43:21   1 0 916 2361 0             jagpacar
+E  635 17:43 1:c1396 161 cmot-2113946u01  90   151     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:44:34   1 0 917 2361 0             jagpacar
+E  636 17:44 1:r4900 151 rmot-0613952y17 270   160    18     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:45:52   0 0 918 2366 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:47:07   3 0 919 2361 0             jagpacar
+E  638 17:47 1:c1396 156 cmot-2113946u01  90   150    23     0    8 nxt1md2sl11-1   Hor Off
+E  638 17:47 1:u1100 144 bmot-sc98c37600   0   108    -9  1800 1000 nxt1md16sl6-1   Polarity
+E  638 17:47 3:u1100 171 bmot-sc98c37600 180    56    15  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:48:25   1 0 920 3100 0             jagpacar
+E  639 17:48  4:m201  44 umot-39014236003  90     0   135    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:49:51   2 0 921 2969 0             jagpacar
+E  640 17:50 4:r5303 100 rmot-0613952t01   0   -18    50     0    1 nxt1md1sl13-1   Missing
+E  640 17:50 2:fl7501 165 bmot-sf68c47813 270    21   -33  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:50:42   1 0 922 2288 0             jagpacar
+E  641 17:50  4:m201  44 umot-39014236003  90     0   141    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:53:16   1 0 923 3039 0             jagpacar
+E  642 17:53  4:m201  42 umot-39014236003  90     0   144    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_17:54:43   0 0 924 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:55:40   1 0 925 2244 0             jagpacar
+E  644 17:55  4:m201  44 umot-39014236003  90     0   143    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:56:56   0 0 926 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:58:16   4 0 927 2244 0             jagpacar
+E  646 17:58 4:u1100 178 bmot-sc98c37600   0     5   -15  1800 1000 nxt1md16sl6-1   Polarity
+E  646 17:58  4:m201  43 umot-39014236003  90     0   149    -3    1 nxt1md14sl3-1   Missing
+E  646 17:58 1:c1396 164 cmot-2113946u01  90   156    14    17    8 nxt1md2sl11-1   Hor Off
+E  646 17:58 1:u8010 189 bmot-sc98c31028   0   130    -8    -1    6 nxt1md18sl12-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_17:59:43   0 0 928 2245 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:01:08   1 0 929 2361 0             jagpacar
+E  648 18:01  4:m201  45 umot-39014236003  90     0   157    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:02:35   0 0 930 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:03:30   3 0 931 2244 0             jagpacar
+E  650 18:03  4:m201  41 umot-39014236003  90     0   130    -2    1 nxt1md14sl3-1   Missing
+E  650 18:03 1:r4900 159 rmot-0613952y17 270   155     0    -1    8 nxt1md7sl20-1   Hor Off
+E  650 18:03 1:u1100 108 bmot-sc98c37600   0    95   -15    -2    1 nxt1md16sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:04:54   0 0 932 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:05:46   1 0 933 2361 0             jagpacar
+E  652 18:06 1:c1396 159 cmot-2113946u01  90   151   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:07:52   0 0 934 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:09:12   0 0 935 2872 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:10:12   1 0 936 2361 0             jagpacar
+E  655 18:10  4:m201  44 umot-39014236003  90     0   133    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:11:37   1 0 937 2994 0             jagpacar
+E  656 18:11  3:m351 192 umot-39014236003  90     0   162     1    6 nxt1md14sl3-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:12:47   1 0 938 2964 0             jagpacar
+E  657 18:12  3:m351 190 umot-39014236003  90     0   152     2    6 nxt1md14sl3-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:14:02   0 0 939 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:15:01   1 0 940 2405 0             jagpacar
+E  659 18:15  4:m201  44 umot-39014236003  90     0   131    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:17:18   2 0 941 2361 0             jagpacar
+E  660 18:17 1:c1396 159 cmot-2113946u01  90   151    -4   -17    8 nxt1md2sl11-1   Hor Off
+E  660 18:17 1:r4900 145 rmot-0613952y17 270   174     0     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:18:37   0 0 942 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:19:34   3 0 943 2884 0             jagpacar
+E  662 18:19 3:r1130 106 rmot-0613952y11   0    -9   -10    17 4000 nxt1md6sl5-1   Billboard
+E  662 18:19 2:r1130  96 rmot-0613952y11   0     0   -17   -35 4000 nxt1md6sl5-1   Billboard
+E  662 18:19 1:z8520 200 rmot-24014052009 180     0     9     0 20000 nxt1md1sl10-1   Flipped
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:20:58   2 0 944 2841 0             jagpacar
+E  663 18:21 3:fl7501 198 bmot-sf68c47813 270    31    -2  1800 1000 nxt1md9sl16-1   Polarity
+E  663 18:21 2:u4130 194 bmot-sc98c30584   0    21   -10  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:21:55   3 0 945 3052 0             jagpacar
+E  664 18:22  4:m201  42 umot-39014236003  90     0   134    -2    1 nxt1md14sl3-1   Missing
+E  664 18:22 1:u8010 186 bmot-sc98c31028   0   121    -7    -5    4 nxt1md18sl12-1   Right Off
+E  664 18:22 1:u1100 146 bmot-sc98c37600   0   115   -12  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:23:19   1 0 946 2256 0             jagpacar
+E  665 18:23 3:r2670  84 rmot-0613952v30 180     0    20    -1    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:24:18   1 0 947 2361 0             jagpacar
+E  666 18:24 4:r1425 169 rmot-06014001001w 180    -9     0   -16 4000 nxt1md6sl7-1   Billboard
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:25:45   1 0 948 2374 0             jagpacar
+E  667 18:25 2:r2668  85 rmot-0613952v30 270   -36    18    -1    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:26:37   1 0 949 2361 0             jagpacar
+E  668 18:26  4:m201  45 umot-39014236003  90     0   149    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:27:48   1 0 950 2882 0             jagpacar
+E  669 18:28 1:c1396 160 cmot-2113946u01  90   150     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:29:14   2 0 951 2841 0             jagpacar
+E  670 18:29 1:u4130 195 bmot-sc98c30584 180    -7    27  1800 1000 nxt1md17sl18-1   Polarity
+E  670 18:29 2:u4130 196 bmot-sc98c30584   0    18    -1  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:30:12   3 0 952 3015 0             jagpacar
+E  671 18:30 4:u1100 167 bmot-sc98c37600   0    19   -12  1800 1000 nxt1md16sl6-1   Polarity
+E  671 18:30  4:m201  44 umot-39014236003  90     0   141    -3    1 nxt1md14sl3-1   Missing
+E  671 18:30 1:c1396 158 cmot-2113946u01  90   151   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:31:25   2 0 953 2680 0             jagpacar
+E  672 18:31 1:c1396 157 cmot-2113946u01  90   151    23     0    8 nxt1md2sl11-1   Hor Off
+E  672 18:31 2:c6412  50 cmot-2113944e23  90    40     4     0    1 nxt1md4sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:32:49   0 0 954 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:33:56   1 0 955 3015 0             jagpacar
+E  674 18:34  4:m201  45 umot-39014236003  90     0   149    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:35:17   3 0 956 2657 0             jagpacar
+E  675 18:35 4:u4130 196 bmot-sc98c30584 180    -8    28  1800 1000 nxt1md17sl18-1   Polarity
+E  675 18:35 3:q4101 190 bmot-sda8d06219  90    45    50  1800 1000 nxt1md11sl20-1   Polarity
+E  675 18:35 1:vr100 198 rmot-sf68d03790 180     0    32    -1 20000 nxt1md7sl3-1   Flipped
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:36:09   1 0 957 2361 0             jagpacar
+E  676 18:36 1:r4900 163 rmot-0613952y17 270   157     0     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:37:25   1 0 958 2244 0             jagpacar
+E  677 18:37  4:m201  42 umot-39014236003  90     0   150    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:38:52   1 0 959 2651 0             jagpacar
+E  678 18:39 2:r2668  87 rmot-0613952v30 270   -29     0     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:39:52   0 0 960 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:41:11   1 0 961 2319 0             jagpacar
+E  680 18:41 3:q4101 189 bmot-sda8d06219  90    33    46  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:42:03   2 0 962 3015 0             jagpacar
+E  681 18:42 4:u1100 169 bmot-sc98c37600   0    17   -20  1800 1000 nxt1md16sl6-1   Polarity
+E  681 18:42  4:m201  42 umot-39014236003  90     0   139    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:43:27   0 0 963 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:44:19   1 0 964 3039 0             jagpacar
+E  683 18:44 1:c1396 159 cmot-2113946u01  90   153   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:45:43   0 0 965 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:46:40   3 0 966 3039 0             jagpacar
+E  685 18:46 3:r1130 102 rmot-0613952y11   0    -9    -9   -17 4000 nxt1md6sl5-1   Billboard
+E  685 18:46  4:m201  45 umot-39014236003  90     0   154    -3    1 nxt1md14sl3-1   Missing
+E  685 18:46 1:c1396 159 cmot-2113946u01  90   151     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:48:03   0 0 967 2657 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:48:55   0 0 968 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:50:17   0 0 969 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:51:11   0 0 970 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:52:35   0 0 971 2879 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:53:44   2 0 972 2841 0             jagpacar
+E  691 18:53 3:q4101 191 bmot-sda8d06219  90    45    58  1800 1000 nxt1md11sl20-1   Polarity
+E  691 18:53 2:u4130 196 bmot-sc98c30584   0   -13     0  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:54:48   1 0 973 3039 0             jagpacar
+E  692 18:55 1:u1100 143 bmot-sc98c37600   0   110   -21  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:56:05   2 0 974 2361 0             jagpacar
+E  693 18:56  4:m201  43 umot-39014236003  90     0   143    -2    1 nxt1md14sl3-1   Missing
+E  693 18:56 1:r4900 144 rmot-0613952y17 270   160    18     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:57:30   0 0 975 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_18:58:22   0 0 976 3015 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_18:59:44   0 0 977 2428 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:00:49   0 0 978 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:01:42   1 0 979 2268 0             jagpacar
+E  698 19:01 1:c1396 155 cmot-2113946u01  90   155   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:03:05   1 0 980 2429 0             jagpacar
+E  699 19:03 2:r2668  83 rmot-0613952v30 270   -42    18     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:04:11   0 0 981 3151 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:05:35   3 0 982 3112 0             jagpacar
+E  701 19:05 4:fl8503 198 bmot-91014306001 180    33  -132  1800 1000 nxt1md9sl14-1   Polarity
+E  701 19:05  4:m201  44 umot-39014236003  90     0   142    -2    1 nxt1md14sl3-1   Missing
+E  701 19:05 1:c1396 155 cmot-2113946u01  90   153     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:07:03   0 0 983 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:08:30   0 0 984 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:09:26   2 0 985 3151 0             jagpacar
+E  704 19:09 4:fl8503 199 bmot-91014306001 180    32  -128  1800 1000 nxt1md9sl14-1   Polarity
+E  704 19:09 2:u1100 171 bmot-sc98c37600 180     0    -7  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:10:49   1 0 986 2656 0             jagpacar
+E  705 19:11 3:u4130 195 bmot-sc98c30584   0    22    -3  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:11:56   0 0 987 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:12:59   0 0 988 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:14:20   2 0 989 3008 0             jagpacar
+E  708 19:14 2:q4101 178 bmot-sda8d06219  90     3    34  1800 1000 nxt1md11sl20-1   Polarity
+E  708 19:14 2:u4130 195 bmot-sc98c30584   0    20    -4  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:15:14   0 0 990 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:16:36   0 0 991 2408 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:17:29   1 0 992 3039 0             jagpacar
+E  711 19:17 1:r4900 146 rmot-0613952y17 270   186    18   -35    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:18:52   1 0 993 2657 0             jagpacar
+E  712 19:19 2:r2668  88 rmot-0613952v30 270   -36    18     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:19:44   0 0 994 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:21:07   1 0 995 2841 0             jagpacar
+E  714 19:21 2:u4130 195 bmot-sc98c30584   0     2     3  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:21:59   0 0 996 3048 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:23:23   1 0 997 2429 0             jagpacar
+E  716 19:23 3:l1991  70 cmot-2475316c34 180   -10    33     0    1 nxt1md1sl16-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:24:21   2 0 998 3039 0             jagpacar
+E  717 19:24  4:m201  45 umot-39014236003  90     0   150    -3    1 nxt1md14sl3-1   Missing
+E  717 19:24 1:c1396 165 cmot-2113946u01  90   151   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:25:43   1 0 999 2429 0             jagpacar
+E  718 19:25 2:r2668  87 rmot-0613952v30 270   -45    18     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:26:38   1 0 1000 3039 0             jagpacar
+E  719 19:26 1:r4900 145 rmot-0613952y17 270   160     0     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:28:09   1 0 1001 2392 0             jagpacar
+E  720 19:28 3:u4130 195 bmot-sc98c30584   0    33     9  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:29:01   0 0 1002 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:30:23   0 0 1003 2374 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:31:15   0 0 1004 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:32:27   2 0 1005 2374 0             jagpacar
+E  724 19:32  4:m201  37 umot-39014236003  90     0   139    -3    1 nxt1md14sl3-1   Missing
+E  724 19:32 1:c1396 166 cmot-2113946u01  90   153   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:33:53   0 0 1006 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:35:01   1 0 1007 2429 0             jagpacar
+E  726 19:35 1:r2670  87 rmot-0613952v30   0   104    15   -18    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:35:54   1 0 1008 2949 0             jagpacar
+E  727 19:36 1:c1396 157 cmot-2113946u01  90   152     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:37:04   0 0 1009 3058 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:38:41   1 0 1010 3039 0             jagpacar
+E  729 19:38 3:fl7518 195 bmot-sc98c70882   0    41   -13  1800 1000 nxt1md14sl19-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:39:45   0 0 1011 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:40:38   1 0 1012 2405 0             jagpacar
+E  731 19:40  4:m201  43 umot-39014236003  90     0   142    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:41:56   4 0 1013 2244 0             jagpacar
+E  732 19:42 3:fl7518 196 bmot-sc98c70882   0    23   -18  1800 1000 nxt1md14sl19-1   Polarity
+E  732 19:42  4:m201  43 umot-39014236003  90     0   130    -2    1 nxt1md14sl3-1   Missing
+E  732 19:42 1:c1397 169 cmot-2113946u01  90   151   -33     0    8 nxt1md2sl11-1   Hor Off
+E  732 19:42 1:r4900 143 rmot-0613952y17 270   173    18     0    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:43:17   1 0 1014 2316 0             jagpacar
+E  733 19:43 2:fl7518 195 bmot-sc98c70882   0    59   -30  1800 1000 nxt1md14sl19-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:45:49   3 0 1015 2316 0             jagpacar
+E  734 19:46 3:fl7518 194 bmot-sc98c70882   0    21   -33  1800 1000 nxt1md14sl19-1   Polarity
+E  734 19:46 1:c1396 160 cmot-2113946u01  90   150    14    16    8 nxt1md2sl11-1   Hor Off
+E  734 19:46 2:fl7518 194 bmot-sc98c70882   0    71   -16  1800 1000 nxt1md14sl19-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:47:12   2 0 1016 2969 0             jagpacar
+E  735 19:47 4:u4130 196 bmot-sc98c30584 180    15    45  1800 1000 nxt1md17sl18-1   Polarity
+E  735 19:47 2:fl7501 199 bmot-sf68c47813 270    21   -22  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:48:05   2 0 1017 2244 0             jagpacar
+E  736 19:48 3:fl7518 195 bmot-sc98c70882   0    19   -24  1800 1000 nxt1md14sl19-1   Polarity
+E  736 19:48 4:z7349  96 cmot-2113944e17 270    42   -14     0    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:49:34   1 0 1018 2256 0             jagpacar
+E  737 19:49 2:r2668  89 rmot-0613952v30 270   -37     0     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:50:48   0 0 1019 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:52:35   1 0 1020 2361 0             jagpacar
+E  739 19:52 2:z7352  48 cmot-2113944e17  90     7    32   -17    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:53:58   0 0 1021 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:54:59   1 0 1022 3015 0             jagpacar
+E  741 19:55 4:fl8503 199 bmot-91014306001 180    17  -111  1800 1000 nxt1md9sl14-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:56:22   0 0 1023 2317 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_19:57:14   2 0 1024 2361 0             jagpacar
+E  743 19:57 1:c1396 158 cmot-2113946u01  90   151    14    17    8 nxt1md2sl11-1   Hor Off
+E  743 19:57 2:fl7518 194 bmot-sc98c70882   0    59   -17  1800 1000 nxt1md14sl19-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:58:37   1 0 1025 2929 0             jagpacar
+E  744 19:58 3:q4101 192 bmot-sda8d06219  90    47    49  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_19:59:45   0 0 1026 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:00:48   1 0 1027 2316 0             jagpacar
+E  746 20:01 2:fl7518 195 bmot-sc98c70882   0    65   -14  1800 1000 nxt1md14sl19-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:02:07   0 0 1028 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:03:31   0 0 1029 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:04:41   0 0 1030 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:06:27   1 0 1031 2361 0             jagpacar
+E  750 20:06 4:z7770  67 cmot-2113944e17 270    46   -14     0    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:06:56   1 0 1032 2256 0             jagpacar
+E  751 20:07 2:q4101 190 bmot-sda8d06219  90     3    34  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:07:43   2 0 1033 2316 0             jagpacar
+E  752 20:07 1:c1396 155 cmot-2113946u01  90   160    14    17    8 nxt1md2sl11-1   Hor Off
+E  752 20:07 1:u8010 189 bmot-sc98c31028   0   123    -5    -6    4 nxt1md18sl12-1   Right Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:09:00   1 0 1034 3039 0             jagpacar
+E  753 20:09 1:u1100 180 bmot-sc98c37600   0   100   -19  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:11:00   0 0 1035 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:11:52   2 0 1036 3048 0             jagpacar
+E  755 20:12 4:c6276 129 cmot-21014004001   0     0    28  -123  400 nxt1md6sl11-1   Skew
+E  755 20:12  4:m201  45 umot-39014236003  90     0   121    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:14:50   0 0 1037 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:15:42   1 0 1038 2361 0             jagpacar
+E  757 20:15  4:m201  46 umot-39014236003  90     0   140    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:16:27   0 0 1039 2281 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:17:41   0 0 1040 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:18:43   1 0 1041 3142 0             jagpacar
+E  760 20:18 1:z7770 100 cmot-2113944e17 270    13    14    17    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:20:09   0 0 1042 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:22:52   0 0 1043 3094 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:25:32   3 0 1044 2244 0             jagpacar
+E  763 20:25 4:z7770  53 cmot-2113944e17 270    56     4     0    1 nxt1md9sl11-1   Missing
+E  763 20:25  4:m201  42 umot-39014236003  90     0   140    -2    1 nxt1md14sl3-1   Missing
+E  763 20:25 1:r4900 153 rmot-0613952y17 270   157     9   -17    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:26:56   3 0 1045 2441 0             jagpacar
+E  764 20:27 1:c8842 175 cmot-2113946u01   0   -28     0     0 4000 nxt1md2sl11-1   Billboard
+E  764 20:27 2:q4101 194 bmot-sda8d06219  90     1    50  1800 1000 nxt1md11sl20-1   Polarity
+E  764 20:27 2:c5797 168 cmot-2113944e15 270   150   -14     0    8 nxt1md10sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:28:08   2 0 1046 2969 0             jagpacar
+E  765 20:28  1:l371 198 rmot-si28c43504 180   -28    36   -17 20000 nxt1md5sl8-1   Flipped
+E  765 20:28 2:fl7501 195 bmot-sf68c47813 270    30   -23  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:29:23   0 0 1047 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:30:44   0 0 1048 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:31:52   3 0 1049 3142 0             jagpacar
+E  768 20:32 4:r1424 200 rmot-06014001001w 180   -18    14     0 4000 nxt1md6sl7-1   Billboard
+E  768 20:32 1:c1396 165 cmot-2113946u01  90   152    -4    17    8 nxt1md2sl11-1   Hor Off
+E  768 20:32 1:z7770  58 cmot-2113944e17 270    25    -4    17    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:32:56   1 0 1050 3015 0             jagpacar
+E  769 20:33  4:m201  43 umot-39014236003  90     0   140    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:34:19   0 0 1051 2319 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:35:29   0 0 1052 2657 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:36:27   0 0 1053 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:37:47   2 0 1054 3039 0             jagpacar
+E  773 20:38 1:r4900 138 rmot-0613952y17 270   156    18     0    8 nxt1md7sl20-1   Hor Off
+E  773 20:38 1:u1100 140 bmot-sc98c37600   0   112    -2  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:39:16   2 0 1055 2429 0             jagpacar
+E  774 20:39 3:q4101 193 bmot-sda8d06219  90    51    32  1800 1000 nxt1md11sl20-1   Polarity
+E  774 20:39 2:c5797 166 cmot-2113944e15 270   156   -14     0    8 nxt1md10sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_20:40:08   1 0 1056 2376 0             jagpacar
+E  775 20:40  4:m201  42 umot-39014236003  90     0   140    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:41:32   1 0 1057 2656 0             jagpacar
+E  776 20:41 3:r5302  94 rmot-0613952t01 180     0    32     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:42:38   1 0 1058 2429 0             jagpacar
+E  777 20:42 2:r2668  89 rmot-0613952v30 270   -42    18     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:43:51   0 0 1059 2841 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:45:07   1 0 1060 2969 0             jagpacar
+E  779 20:45 2:fl7501 162 bmot-sf68c47813 270    18   -27  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_20:56:19   1 0 1061 2428 0             jagpacar
+E  780 20:56 2:q4101 194 bmot-sda8d06219  90     7    40  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:00:08   0 0 1062 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:01:21   1 0 1063 2841 0             jagpacar
+E  782 21:01 2:u4130 196 bmot-sc98c30584   0    -6    -7  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:02:37   0 0 1064 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:03:56   0 0 1065 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:05:22   0 0 1066 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:07:05   0 0 1067 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:08:52   1 0 1068 2244 0             jagpacar
+E  787 21:09 1:u1100 160 bmot-sc98c37600   0   103   -28  1800 1000 nxt1md16sl6-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:10:17   0 0 1069 3151 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:11:40   3 0 1070 3048 0             jagpacar
+E  789 21:11  4:m201  43 umot-39014236003  90     0   138    -2    1 nxt1md14sl3-1   Missing
+E  789 21:11 1:c1397 170 cmot-2113946u01  90   151     4     0    8 nxt1md2sl11-1   Hor Off
+E  789 21:11 1:c1396 161 cmot-2113946u01  90   154     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:13:08   2 0 1071 2841 0             jagpacar
+E  790 21:13 2:c5797 170 cmot-2113944e15 270   155   -33     0    8 nxt1md10sl11-1   Hor Off
+E  790 21:13 2:u4130 198 bmot-sc98c30584   0     5    10  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:14:00   3 0 1072 2316 0             jagpacar
+E  791 21:14 3:r1041 153 rmot-06014001001w  90     2    37    35 4000 nxt1md6sl7-1   Billboard
+E  791 21:14 3:z7349  61 cmot-2113944e17  90     3    61     0    1 nxt1md9sl11-1   Missing
+E  791 21:14 4:r1424 192 rmot-06014001001w 180     0     9     0 4000 nxt1md6sl7-1   Billboard
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:15:18   0 0 1073 3142 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:16:41   1 0 1074 2823 0             jagpacar
+E  793 21:16 1:u4130 196 bmot-sc98c30584 180   -31     2  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:17:55   2 0 1075 2872 0             jagpacar
+E  794 21:18 4:r2668  86 rmot-0613952v30  90    -6     9    17    1 nxt1md5sl6-1   Missing
+E  794 21:18 3:u4130 194 bmot-sc98c30584   0    18    33  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:18:53   0 0 1076 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:20:09   4 0 1077 2244 0             jagpacar
+E  796 21:20  4:m201  42 umot-39014236003  90     0   149    -2    1 nxt1md14sl3-1   Missing
+E  796 21:20 4:fl7320 167 bmot-91014486001 180   263   188    23    6 nxt1md14sl5-1   Left Off  Right Off
+E  796 21:20 1:c1396 156 cmot-2113946u01  90   150   -23    17    8 nxt1md2sl11-1   Hor Off
+E  796 21:20  4:m101  42 umot-39014236003  90     0   130    -1    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:21:33   2 0 1078 3008 0             jagpacar
+E  797 21:21 3:fl7501 198 bmot-sf68c47813 270    28     0  1800 1000 nxt1md9sl16-1   Polarity
+E  797 21:21 3:q4101 189 bmot-sda8d06219  90    47    44  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:22:25   0 0 1079 3142 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:24:22   0 0 1080 3142 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:25:46   1 0 1081 2861 0             jagpacar
+E  800 21:26 3:r2670  89 rmot-0613952v30 180     0    28     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:26:58   0 0 1082 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:28:34   0 0 1083 2841 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:29:27   0 0 1084 2316 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:30:39   1 0 1085 2429 0             jagpacar
+E  804 21:30 2:r2668  84 rmot-0613952v30 270   -31     9   -17    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:31:31   1 0 1086 2449 0             jagpacar
+E  805 21:31 4:z7770  56 cmot-2113944e17 270    31    23    35    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:33:41   1 0 1087 3039 0             jagpacar
+E  806 21:33 1:c1396 158 cmot-2113946u01  90   153   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:35:06   0 0 1088 2374 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:36:13   1 0 1089 2319 0             jagpacar
+E  808 21:36 2:r2668  89 rmot-0613952v30 270   -26    28   -17    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:37:13   0 0 1090 3142 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:38:36   1 0 1091 2841 0             jagpacar
+E  810 21:38 2:u4130 195 bmot-sc98c30584   0    -6   -18  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:39:29   1 0 1092 3039 0             jagpacar
+E  811 21:39 1:c1396 159 cmot-2113946u01  90   150     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:40:43   2 0 1093 2361 0             jagpacar
+E  812 21:40 1:c1397 168 cmot-2113946u01  90   155     4     0    8 nxt1md2sl11-1   Hor Off
+E  812 21:40 1:c1396 160 cmot-2113946u01  90   150    14   -17    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:42:07   1 0 1094 2441 0             jagpacar
+E  813 21:42 2:q4101 190 bmot-sda8d06219  90    -1    39  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:43:12   1 0 1095 2872 0             jagpacar
+E  814 21:43 2:q4101 193 bmot-sda8d06219  90    -3    44  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:46:11   4 0 1096 2316 0             jagpacar
+E  815 21:46 4:u7611 200 bmot-sc98d22497  90    -2   -41  1800 1000 nxt1md16sl15-1   Polarity
+E  815 21:46  4:m201  43 umot-39014236003  90     0   138    -2    1 nxt1md14sl3-1   Missing
+E  815 21:46 1:c1397 169 cmot-2113946u01  90   155   -14     0    8 nxt1md2sl11-1   Hor Off
+E  815 21:46 1:c1396 163 cmot-2113946u01  90   152   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:46:39   1 0 1097 2256 0             jagpacar
+E  816 21:46 2:r2668  85 rmot-0613952v30 270   -46    18     0    1 nxt1md5sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:47:26   0 0 1098 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:48:19   1 0 1099 2361 0             jagpacar
+E  818 21:48  4:m201  43 umot-39014236003  90     0   141    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:49:47   0 0 1100 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:51:38   2 0 1101 2405 0             jagpacar
+E  820 21:51 1:c1397 170 cmot-2113946u01  90   150   -33     0    8 nxt1md2sl11-1   Hor Off
+E  820 21:51 1:u8010 190 bmot-sc98c31028   0   132   -12    -3    6 nxt1md18sl12-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:52:07   0 0 1102 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:53:03   2 0 1103 2316 0             jagpacar
+E  822 21:53  4:m201  39 umot-39014236003  90     0   136    -3    1 nxt1md14sl3-1   Missing
+E  822 21:53 1:c1396 157 cmot-2113946u01  90   153   -33     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:54:18   1 0 1104 2319 0             jagpacar
+E  823 21:54 3:q4101 191 bmot-sda8d06219  90    58    41  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:55:10   0 0 1105 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_21:56:34   0 0 1106 2872 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_21:58:49   3 0 1107 2244 0             jagpacar
+E  826 21:59 3:fl7320 197 bmot-91014486001   0  -242  -225    45    e nxt1md14sl5-1   Left Off  Right Off  Hor Off
+E  826 21:59 3:c8516 109 cmot-2113944e17  90    33   -23    17    1 nxt1md9sl11-1   Missing
+E  826 21:59 1:c1396 156 cmot-2113946u01  90   155     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:01:10   1 0 1108 3142 0             jagpacar
+E  827 22:01  4:m201  40 umot-39014236003  90     0   143    -3    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:03:18   0 0 1109 2657 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:03:40  10 0 1110 2641 0             jagpacar
+E  829 22:03 3:c7303 108 cmot-sc49a6n1g4  90    59    14    17    1 nxt1md4sl10-1   Missing
+E  829 22:03 3:c8403  49 cmot-sc49a6n1g4  90    29    23     0    1 nxt1md4sl10-1   Missing
+E  829 22:03 4:z8873  72 cmot-sc49a6n1g4 270    10    23     0    1 nxt1md4sl10-1   Missing
+E  829 22:03 4:c8403  97 cmot-sc49a6n1g4 270    22   -14     0    1 nxt1md4sl10-1   Missing
+E  829 22:03 4:z7770  97 cmot-2113944e17 270    55    23     0    1 nxt1md9sl11-1   Missing
+E  829 22:03  4:m201  43 umot-39014236003  90     0   155    -3    1 nxt1md14sl3-1   Missing
+E  829 22:03 1:c6431  19 cmot-sc49a6n1g4  90    63   -23    17    1 nxt1md4sl10-1   Missing
+E  829 22:03 2:c8403  82 cmot-sc49a6n1g4  90    52     4     0    1 nxt1md4sl10-1   Missing
+E  829 22:03 2:z8873  85 cmot-sc49a6n1g4  90    61   -33     0    1 nxt1md4sl10-1   Missing
+E  829 22:03 2:r1424 158 rmot-06014001001w   0   -37    35     0 4000 nxt1md6sl7-1   Billboard
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:04:12   1 0 1111 3008 0             jagpacar
+E  830 22:04 3:q4101 189 bmot-sda8d06219  90    38    47  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:04:39   0 0 1112 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:05:00   0 0 1113 2319 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:06:10   1 0 1114 2256 0             jagpacar
+E  833 22:06 2:q4101 192 bmot-sda8d06219  90    -3    51  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:07:14  11 0 1115 2916 0             jagpacar
+E  834 22:07 3:c7129  91 cmot-sc49a6n1g4   0   -10    24    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 3:c8403 100 cmot-sc49a6n1g4  90    21    42    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 3:c6431   0 cmot-sc49a6n1g4 270     6    23    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 4:c7030  84 cmot-sc49a6n1g4 180   -28   -20    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 4:z8873  81 cmot-sc49a6n1g4 270    26     4    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 4:c7753  98 cmot-sc49a6n1g4 180     8    19    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07  4:m201  40 umot-39014236003  90     0   145    -3    1 nxt1md14sl3-1   Missing
+E  834 22:07 1:r4900 160 rmot-0613952y17 270   184     0    -1    8 nxt1md7sl20-1   Hor Off
+E  834 22:07 1:c7753  77 cmot-sc49a6n1g4 180    84   -11    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 2:c8403  56 cmot-sc49a6n1g4  90    51   -14    -1    1 nxt1md4sl10-1   Missing
+E  834 22:07 1:c7303  96 cmot-sc49a6n1g4 270    25   -52    -1    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:08:42   0 0 1116 2441 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:09:34  14 0 1117 3105 0             jagpacar
+E  836 22:09 3:c7030 104 cmot-sc49a6n1g4   0    18    45   -17    1 nxt1md4sl10-1   Missing
+E  836 22:09 3:c8403  90 cmot-sc49a6n1g4  90    17    14   -17    1 nxt1md4sl10-1   Missing
+E  836 22:09 3:c6431  86 cmot-sc49a6n1g4 270     8    23     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 4:c7030  90 cmot-sc49a6n1g4 180     8    -4     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 4:z8873  58 cmot-sc49a6n1g4 270    24   -14     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 4:z7352  93 cmot-2113944e17 270    39   -33     0    1 nxt1md9sl11-1   Missing
+E  836 22:09 1:c1396 162 cmot-2113946u01  90   152    -4    17    8 nxt1md2sl11-1   Hor Off
+E  836 22:09 1:u8010 190 bmot-sc98c31028   0   135    -9    -1    6 nxt1md18sl12-1   Left Off  Right Off
+E  836 22:09 3:z8873  99 cmot-sc49a6n1g4  90    34   -14     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 2:c8403  50 cmot-sc49a6n1g4  90    54     4     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 2:z8873  10 cmot-sc49a6n1g4  90    58   -14     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 1:c7303  99 cmot-sc49a6n1g4 270    22   -33     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 1:c7129  81 cmot-sc49a6n1g4 180    27     3     0    1 nxt1md4sl10-1   Missing
+E  836 22:09 1:c7030 102 cmot-sc49a6n1g4 180     8     9     0    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:10:53   0 0 1118 2872 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:11:46  13 0 1119 3151 0             jagpacar
+E  838 22:12 3:c7303  99 cmot-sc49a6n1g4  90    64    -4    17    1 nxt1md4sl10-1   Missing
+E  838 22:12 3:c8403 107 cmot-sc49a6n1g4  90    18    51    17    1 nxt1md4sl10-1   Missing
+E  838 22:12 3:c7753  91 cmot-sc49a6n1g4   0    27    50     0    1 nxt1md4sl10-1   Missing
+E  838 22:12 3:c6431  43 cmot-sc49a6n1g4 270    -7    23     0    1 nxt1md4sl10-1   Missing
+E  838 22:12 4:c6431  69 cmot-sc49a6n1g4  90    43   -33     0    1 nxt1md4sl10-1   Missing
+E  838 22:12 4:c8403  86 cmot-sc49a6n1g4 270    27   -14     0    1 nxt1md4sl10-1   Missing
+E  838 22:12  4:m201  41 umot-39014236003  90     0   130    -3    1 nxt1md14sl3-1   Missing
+E  838 22:12 1:c1396 153 cmot-2113946u01  90   153   -23   -17    8 nxt1md2sl11-1   Hor Off
+E  838 22:12 3:z8873  80 cmot-sc49a6n1g4  90    23     4     0    1 nxt1md4sl10-1   Missing
+E  838 22:12 2:c8403  30 cmot-sc49a6n1g4  90    53     4    35    1 nxt1md4sl10-1   Missing
+E  838 22:12 2:z8873  65 cmot-sc49a6n1g4  90    48   -14     0    1 nxt1md4sl10-1   Missing
+E  838 22:12 1:c7303  77 cmot-sc49a6n1g4 270    12   -33     0    1 nxt1md4sl10-1   Missing
+E  838 22:12 1:c7030  82 cmot-sc49a6n1g4 180     8    19     0    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:13:09   0 0 1120 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:14:01  11 0 1121 3105 0             jagpacar
+E  840 22:14 3:c7303 105 cmot-sc49a6n1g4  90    58    23    -1    1 nxt1md4sl10-1   Missing
+E  840 22:14 3:c8403  98 cmot-sc49a6n1g4  90    36    42    -1    1 nxt1md4sl10-1   Missing
+E  840 22:14 3:c6431  76 cmot-sc49a6n1g4 270    -3    23    -1    1 nxt1md4sl10-1   Missing
+E  840 22:14 4:c7030 104 cmot-sc49a6n1g4 180   -10   -12    -1    1 nxt1md4sl10-1   Missing
+E  840 22:14  4:m201  43 umot-39014236003  90     0   135    -2    1 nxt1md14sl3-1   Missing
+E  840 22:14 1:c6431  67 cmot-sc49a6n1g4  90    48    -4   -18    1 nxt1md4sl10-1   Missing
+E  840 22:14 3:z8873  21 cmot-sc49a6n1g4  90    41     4    -1    1 nxt1md4sl10-1   Missing
+E  840 22:14 2:c8403  18 cmot-sc49a6n1g4  90    41    -4    16    1 nxt1md4sl10-1   Missing
+E  840 22:14 2:c7753  84 cmot-sc49a6n1g4   0    18    39    16    1 nxt1md4sl10-1   Missing
+E  840 22:14 1:c8500 106 cmot-sc49a6n1g4  90    33   -42    16    1 nxt1md4sl10-1   Missing
+E  840 22:14 1:c7030  77 cmot-sc49a6n1g4 180     8    17    -1    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:15:22   1 0 1122 2429 0             jagpacar
+E  841 22:15 3:q4101 189 bmot-sda8d06219  90    58    42  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:16:17  10 0 1123 3105 0             jagpacar
+E  842 22:16 3:c7303  86 cmot-sc49a6n1g4  90    52     4     0    1 nxt1md4sl10-1   Missing
+E  842 22:16 3:c8403 100 cmot-sc49a6n1g4  90    46    14    17    1 nxt1md4sl10-1   Missing
+E  842 22:16 4:c6431  75 cmot-sc49a6n1g4  90    57   -33     0    1 nxt1md4sl10-1   Missing
+E  842 22:16 4:c8403  74 cmot-sc49a6n1g4 270    30   -14     0    1 nxt1md4sl10-1   Missing
+E  842 22:16 4:z7770  81 cmot-2113944e17 270    41     4     0    1 nxt1md9sl11-1   Missing
+E  842 22:16  4:m201  39 umot-39014236003  90     0   156    -3    1 nxt1md14sl3-1   Missing
+E  842 22:16 1:c6431  70 cmot-sc49a6n1g4  90    56   -14     0    1 nxt1md4sl10-1   Missing
+E  842 22:16 2:c7129 106 cmot-sc49a6n1g4   0    46    52     0    1 nxt1md4sl10-1   Missing
+E  842 22:16 2:c8403  62 cmot-sc49a6n1g4  90    51   -14     0    1 nxt1md4sl10-1   Missing
+E  842 22:16 1:c7030  90 cmot-sc49a6n1g4 180     0    13    17    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:17:38   1 0 1124 2429 0             jagpacar
+E  843 22:17 4:l7401   4 rmot-24014052017   0   -18    37     0    1 nxt1md7sl12-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:18:31  14 0 1125 2916 0             jagpacar
+E  844 22:18 3:c8500  87 cmot-sc49a6n1g4 270    18     4     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 3:c8403  63 cmot-sc49a6n1g4  90    24     4     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 4:c6431  26 cmot-sc49a6n1g4  90    40   -33     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 4:c7030  86 cmot-sc49a6n1g4 180     8    -8     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 4:c7753  85 cmot-sc49a6n1g4 180     8    21     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 4:c8403  83 cmot-sc49a6n1g4 270    35    -4    17    1 nxt1md4sl10-1   Missing
+E  844 22:18 4:fl8503 199 bmot-91014306001 180    25  -118  1800 1000 nxt1md9sl14-1   Polarity
+E  844 22:18 1:c7753  76 cmot-sc49a6n1g4 180    46    -5     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 1:c6431  58 cmot-sc49a6n1g4  90    56   -33     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 3:z8873  91 cmot-sc49a6n1g4  90    37    -4   -17    1 nxt1md4sl10-1   Missing
+E  844 22:18 2:c8403  63 cmot-sc49a6n1g4  90    49    23     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 2:c7753  81 cmot-sc49a6n1g4   0     8    42     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 2:z8873  81 cmot-sc49a6n1g4  90    46   -33     0    1 nxt1md4sl10-1   Missing
+E  844 22:18 1:c7303  85 cmot-sc49a6n1g4 270    15   -33     0    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:19:55   1 0 1126 2841 0             jagpacar
+E  845 22:20 2:u4130 198 bmot-sc98c30584   0   -12    11  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:20:47   8 0 1127 2609 0             jagpacar
+E  846 22:21 3:c7303  82 cmot-sc49a6n1g4  90    70    -4    17    1 nxt1md4sl10-1   Missing
+E  846 22:21 3:c8403  50 cmot-sc49a6n1g4  90    36    23     0    1 nxt1md4sl10-1   Missing
+E  846 22:21 3:c6431   0 cmot-sc49a6n1g4 270    22    23     0    1 nxt1md4sl10-1   Missing
+E  846 22:21 4:z8873  69 cmot-sc49a6n1g4 270    33     4     0    1 nxt1md4sl10-1   Missing
+E  846 22:21 1:c1396 158 cmot-2113946u01  90   152   -14     0    8 nxt1md2sl11-1   Hor Off
+E  846 22:21 2:c7129  94 cmot-sc49a6n1g4   0    37    55    17    1 nxt1md4sl10-1   Missing
+E  846 22:21 2:c8403  66 cmot-sc49a6n1g4  90    48     4     0    1 nxt1md4sl10-1   Missing
+E  846 22:21 2:z8873  53 cmot-sc49a6n1g4  90    53   -33     0    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:21:58   5 0 1128 3048 0             jagpacar
+E  847 22:22 3:c7030 105 cmot-sc49a6n1g4   0    27    54     0    1 nxt1md4sl10-1   Missing
+E  847 22:22 3:c8403  52 cmot-sc49a6n1g4  90    20    42     0    1 nxt1md4sl10-1   Missing
+E  847 22:22 4:c8403  60 cmot-sc49a6n1g4 270    22   -14     0    1 nxt1md4sl10-1   Missing
+E  847 22:22 2:c8403  76 cmot-sc49a6n1g4  90    48     4     0    1 nxt1md4sl10-1   Missing
+E  847 22:22 2:z8873  91 cmot-sc49a6n1g4  90    53   -33     0    1 nxt1md4sl10-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:23:13   0 0 1129 2943 0             jagpacar
+F  848 22:24 3:c7129 103 cmot-sc49a6n1g4   0     8    27     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 3:c8403  14 cmot-sc49a6n1g4  90    25    23     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 4:c7030  92 cmot-sc49a6n1g4 180    27    -3     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 4:z8873  33 cmot-sc49a6n1g4 270     0     4     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 4:c7753  96 cmot-sc49a6n1g4 180    27     5     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 4:c8403  77 cmot-sc49a6n1g4 270    -1   -33     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24  4:m201  44 umot-39014236003  90     0   140    -3    1 nxt1md14sl3-1 FF- Missing
+F  848 22:24 3:z8873  64 cmot-sc49a6n1g4  90    26   -23   -17    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 2:c8403  49 cmot-sc49a6n1g4  90    68    14    17    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 2:z8873  35 cmot-sc49a6n1g4  90    61   -14     0    1 nxt1md4sl10-1 FF- Missing
+F  848 22:24 1:c7129  92 cmot-sc49a6n1g4 180    46     8     0    1 nxt1md4sl10-1 FF- Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:24:34   0 0 1130 2449 0             jagpacar
+F  849 22:26 4:u1100 155 bmot-sc98c37600   0    11   -23  1800 1000 nxt1md16sl6-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:27:26   0 0 1131 3142 0             jagpacar
+F  850 22:27  4:m201  43 umot-39014236003  90     0   132    -2    1 nxt1md14sl3-1 FF- Missing
+F  850 22:27 1:z7770  92 cmot-2113944e17 270    29    14    15    1 nxt1md9sl11-1 FF- Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:28:38   1 0 1132 2429 0             jagpacar
+E  851 22:29 4:l7401   4 rmot-24014052017   0   -28    38   -17    1 nxt1md7sl12-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:29:36   0 0 1133 2949 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:30:53   0 0 1134 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:32:17  -1 0 1135 2316 0             jagpacar
+F  854 22:33 1:c1397 163 cmot-2113946u01  90   150   -33     0    8 nxt1md2sl11-1 FF- Hor Off
+F  854 22:33 1:c1396 155 cmot-2113946u01  90   150   -23    17    8 nxt1md2sl11-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:33:41   0 0 1136 2371 0             jagpacar
+F  855 22:34 2:r2668  89 rmot-0613952v30 270   -26     0     0    1 nxt1md5sl6-1 FF- Missing
+F  855 22:34 3:u4130 196 bmot-sc98c30584   0    11    15  1800 1000 nxt1md17sl18-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:35:05   0 0 1137 2610 0             jagpacar
+F  856 22:35 3:q4101 190 bmot-sda8d06219  90    44    53  1800 1000 nxt1md11sl20-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:35:57   0 0 1138 3015 0             jagpacar
+F  857 22:36  4:m101  41 umot-39014236003  90     0   108    -2    1 nxt1md14sl3-1 FF- Missing
+F  857 22:36 2:c4507 101 cmot-2113946u01 270    11     4     0    1 nxt1md2sl11-1 FF- Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:38:17   0 0 1139 3039 0             jagpacar
+F  858 22:38 4:z7349  99 cmot-2113944e17 270    21    -4   -17    1 nxt1md9sl11-1 FF- Missing
+F  858 22:38 4:z7770  84 cmot-2113944e17 270    34     4     0    1 nxt1md9sl11-1 FF- Missing
+F  858 22:38  4:m201  43 umot-39014236003  90     0   130    -3    1 nxt1md14sl3-1 FF- Missing
+F  858 22:38 1:c1528  99 cmot-2113946u01 270    32   -42    17    1 nxt1md2sl11-1 FF- Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:42:19   0 0 1140 2657 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:43:12   0 0 1141 3093 0             jagpacar
+F  860 22:45 4:c1562  94 cmot-2113946u01  90    33   -33     0    1 nxt1md2sl11-1 FF- Missing
+F  860 22:45  4:m201  41 umot-39014236003  90     0   133    -3    1 nxt1md14sl3-1 FF- Missing
+F  860 22:45 1:c1396 110 cmot-2113946u01  90   161   -23   -17    8 nxt1md2sl11-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:45:27   0 0 1142 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:45:52   1 0 1143 2361 0             jagpacar
+F  862 22:46 1:c1398 140 cmot-2113946u01  90   153    14   -17    8 nxt1md2sl11-1 FF- Hor Off
+E  862 22:46  2:m201  41 umot-39014236003 270     0   -66    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:46:55   0 0 1144 2872 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:47:20   0 0 1145 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:47:41   0 0 1146 2429 0             jagpacar
+F  865 22:48 3:fl7501 197 bmot-sf68c47813 270    24   -21  1800 1000 nxt1md9sl16-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:48:26   0 0 1147 2449 0             jagpacar
+F  866 22:49  4:m201  41 umot-39014236003  90     0   134    -2    1 nxt1md14sl3-1 FF- Missing
+F  866 22:49 1:c1394 139 cmot-2113946u01 270   152   -33     0    8 nxt1md2sl11-1 FF- Hor Off
+F  866 22:49 1:c1397 121 cmot-2113946u01  90   155    -4    53    8 nxt1md2sl11-1 FF- Hor Off
+F  866 22:49 1:c1396 132 cmot-2113946u01  90   152     4     0    8 nxt1md2sl11-1 FF- Hor Off
+F  866 22:49 1:c1393 134 cmot-2113946u01 270   156   -14    35    8 nxt1md2sl11-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:50:00   0 0 1148 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:51:20   0 0 1149 3039 0             jagpacar
+F  868 22:51 1:c1394 169 cmot-2113946u01 270   153   -23   -17    8 nxt1md2sl11-1 FF- Hor Off
+F  868 22:51 1:c1397 174 cmot-2113946u01  90   156   -33     0    8 nxt1md2sl11-1 FF- Hor Off
+F  868 22:51 1:c1396 168 cmot-2113946u01  90   155   -14     0    8 nxt1md2sl11-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:52:07   0 0 1150 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:52:56   0 0 1151 3039 0             jagpacar
+F  870 22:53 1:c1396 174 cmot-2113946u01  90   162     4     0    8 nxt1md2sl11-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:54:08   0 0 1152 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:55:33  -1 0 1153 2656 0             jagpacar
+F  872 22:55 3:q4101 187 bmot-sda8d06219  90    24    53  1800 1000 nxt1md11sl20-1 FF- Polarity
+F  872 22:55 3:u4130 198 bmot-sc98c30584   0    26   -19  1800 1000 nxt1md17sl18-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_22:57:59   0 0 1154 3048 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:58:41   0 0 1155 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_22:59:57   1 0 1156 3008 0             jagpacar
+E  875 23:00 2:j6100 170 smot-sca8c71816 180    24   -30  1800 1000 nxt1md15sl17-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:01:13   0 0 1157 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:04:22   0 0 1158 2628 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:05:10   0 0 1159 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:06:02   0 0 1160 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:07:03   2 0 1161 3039 0             jagpacar
+E  880 23:07 1:c1394 178 cmot-2113946u01 270   161   -14     0    8 nxt1md2sl11-1   Hor Off
+E  880 23:07 1:c1396 168 cmot-2113946u01  90   163     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:08:01   0 0 1162 2374 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:09:10   0 0 1163 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:10:14   1 0 1164 2429 0             jagpacar
+E  883 23:10 2:q4101 188 bmot-sda8d06219  90    16    45  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:11:14   0 0 1165 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:12:49   1 0 1166 2256 0             jagpacar
+E  885 23:13 2:q4101 189 bmot-sda8d06219  90   -12    48  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:13:42   0 0 1167 2319 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:14:44   0 0 1168 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:16:00   1 0 1169 2371 0             jagpacar
+E  888 23:16 4:m5791 254 umot-sca8c71817   0    -9     0     6    8 nxt1md10sl3-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:16:55   0 0 1170 3048 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:18:16   0 0 1171 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:19:41   0 0 1172 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:20:33   0 0 1173 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:21:57   3 0 1174 2319 0             jagpacar
+E  893 23:22 4:m4164 252 umot-sca8c71817   0  -202     0    20  40e nxt1md10sl3-1   Left Off  Right Off  Hor Off  Skew
+E  893 23:22 2:q4101 182 bmot-sda8d06219  90    -9    50  1800 1000 nxt1md11sl20-1   Polarity
+E  893 23:22 2:c5797 171 cmot-2113944e15 270   152   -14     0    8 nxt1md10sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:22:49   0 0 1175 2316 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:24:00   0 0 1176 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:25:24   1 0 1177 2657 0             jagpacar
+E  896 23:25 3:r5303  42 rmot-0613952t01 180     0    -2     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:26:16   0 0 1178 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:29:39   1 0 1179 2361 0             jagpacar
+E  898 23:29 1:u8010 185 bmot-sc98c31028   0   129   -24    -2    6 nxt1md18sl12-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:31:51   0 0 1180 3151 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:32:51   0 0 1181 2392 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:33:24   0 0 1182 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:34:11   2 0 1183 2587 0             jagpacar
+E  902 23:34 3:fl7501 199 bmot-sf68c47813 270    11   -29  1800 1000 nxt1md9sl16-1   Polarity
+E  902 23:34 3:z7966 132 rmot-24014052005 180    85   170   -88    8 nxt1md9sl12-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:35:05   0 0 1184 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:35:28   0 0 1185 2319 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:36:05   1 0 1186 2319 0             jagpacar
+E  905 23:36  1:m251 252 umot-sca8c71817   0    89     0     0    8 nxt1md10sl3-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:36:59   1 0 1187 2361 0             jagpacar
+E  906 23:37 1:u8010 173 bmot-sc98c31028   0   127   -11    -4    4 nxt1md18sl12-1   Right Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:38:20   0 0 1188 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:39:12   0 0 1189 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:40:35   1 0 1190 2256 0             jagpacar
+E  909 23:40 2:q4101 192 bmot-sda8d06219  90     2    41  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:41:27   1 0 1191 2614 0             jagpacar
+E  910 23:41 2:m2636  45 umot-sca8c71817   0    43     0    -2    9 nxt1md10sl3-1   Missing  Hor Off
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:42:49   2 0 1192 2429 0             jagpacar
+E  911 23:43  3:m251 254 umot-sca8c71817 180   231     0    19  40e nxt1md10sl3-1   Left Off  Right Off  Hor Off  Skew
+E  911 23:43 2:q4101 177 bmot-sda8d06219  90     0    45  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:43:41   0 0 1193 3015 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:45:03   1 0 1194 2429 0             jagpacar
+E  913 23:45 1:u4130 197 bmot-sc98c30584 180   -29     7  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:45:57   0 0 1195 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:47:21   0 0 1196 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:49:35   1 0 1197 2429 0             jagpacar
+E  916 23:49  2:m501 237 umot-sca8c71817   0  -150     0    25  40e nxt1md10sl3-1   Left Off  Right Off  Hor Off  Skew
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:50:59   1 0 1198 3039 0             jagpacar
+E  917 23:51 1:u8010 190 bmot-sc98c31028   0   125    -7    -4    4 nxt1md18sl12-1   Right Off
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:52:21   1 0 1199 2316 0             jagpacar
+E  918 23:52 4:fl8503 194 bmot-91014306001 180    24  -144  1800 1000 nxt1md9sl14-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:53:46   0 0 1200 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:55:11   1 0 1201 2969 0             jagpacar
+E  920 23:55 2:fl7501 199 bmot-sf68c47813 270    20     3  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 25-Oct-2021_23:56:32   1 0 1202 2656 0             jagpacar
+E  921 23:56 2:q4101 183 bmot-sda8d06219  90   -10    43  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 25-Oct-2021_23:59:40   0 0 1203 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_00:03:20   1 0 1204 2361 0             jagpacar
+E  923 00:03 1:u8010 188 bmot-sc98c31028   0   124    -6    -3    4 nxt1md18sl12-1   Right Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_00:04:44   8 0 1205 3016 0             jagpacar
+E  924 00:04  3:m352 176 umot-sca8c71817 180    41     0     0    8 nxt1md10sl3-1   Hor Off
+E  924 00:04  3:m501 181 umot-sca8c71817   0   -64     0    -5    8 nxt1md10sl3-1   Hor Off
+E  924 00:04  3:m301 159 umot-sca8c71817 270     0   -28     5    8 nxt1md10sl3-1   Hor Off
+E  924 00:04  4:m301 174 umot-sca8c71817  90     0    39     2    8 nxt1md10sl3-1   Hor Off
+E  924 00:04  1:m301 180 umot-sca8c71817  90     0    96    -2    8 nxt1md10sl3-1   Hor Off
+E  924 00:04 2:q4102 184 bmot-sda8c00643 270    45  -230     0    6 nxt1md10sl19-1   Left Off  Right Off
+E  924 00:04 2:m5791 179 umot-sca8c71817 180    73     0     0    8 nxt1md10sl3-1   Hor Off
+E  924 00:04  2:m251 182 umot-sca8c71817 180    43     0     2    8 nxt1md10sl3-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_00:07:01   1 0 1206 2316 0             jagpacar
+E  925 00:07 1:c1396 167 cmot-2113946u01  90   161     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_00:07:27   1 0 1207 2656 0             jagpacar
+E  926 00:07 3:u4130 195 bmot-sc98c30584   0    23     3  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_00:08:00   0 0 1208 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_00:09:17   1 0 1209 2969 0             jagpacar
+E  928 00:09 2:fl7501 198 bmot-sf68c47813 270    31    -7  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_00:10:09   0 0 1210 2449 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_00:11:37   1 0 1211 2429 0             jagpacar
+E  930 00:11  4:j452 214 umot-09014195001w 270     0    14    -2    8 nxt1md16sl14-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_00:12:29   0 0 1212 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_00:13:37   1 0 1213 2244 0             jagpacar
+E  932 00:13 1:r4900 144 rmot-0613952y17 270   156     9   -17    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_06:56:47   1 0 1214 2614 0             jagpacar
+E  933 06:56 3:fl7312 197 bmot-sf68c56202   0   -27   141    18    8 nxt1md9sl15-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_06:58:21   0 0 1215 2933 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_06:59:12   0 0 1216 2449 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:00:11   1 0 1217 2441 0             jagpacar
+E  936 07:00 1:u8860 192 bmot-sc98c95844  90    20   -82  1800 1000 nxt1md19sl12-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:01:28   3 0 1218 2841 0             jagpacar
+E  937 07:01 4:u8801 108 bmot-sc98c92055 270    44    11    -8    1 nxt1md13sl8-1   Missing
+E  937 07:01 2:m4164 166 umot-sca8c71817 180     1     0     1    8 nxt1md10sl3-1   Hor Off
+E  937 07:01 2:u4130 197 bmot-sc98c30584   0   -28     9  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:04:30   0 0 1219 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:04:51   1 0 1220 2841 0             jagpacar
+E  939 07:05 1:c1657  84 cmot-21001124002 270    47    -4     0    1 nxt1md11sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:05:35   0 0 1221 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:06:36   0 0 1222 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:07:05   2 0 1223 2933 0             jagpacar
+E  942 07:07 2:q4101 178 bmot-sda8d06219  90     1    52  1800 1000 nxt1md11sl20-1   Polarity
+E  942 07:07 2:u8801 107 bmot-sc98c92055  90   104   -11     6    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:08:08   0 0 1224 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:09:12   0 0 1225 2933 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:10:23   0 0 1226 2359 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:26:36   0 0 1227 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:27:10   1 0 1228 2861 0             jagpacar
+E  947 07:27  4:m251 236 umot-sca8c71817   0   192     0     5    6 nxt1md10sl3-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:27:37   0 0 1229 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:27:58   0 0 1230 2614 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:28:21   0 0 1231 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:28:44   3 0 1232 3039 0             jagpacar
+E  951 07:28  4:m201  41 umot-39014236003  90     0   140    -2    1 nxt1md14sl3-1   Missing
+E  951 07:28 1:u8010 186 bmot-sc98c31028   0   127    -4     0    6 nxt1md18sl12-1   Left Off  Right Off
+E  951 07:28 3:u1100 108 bmot-sc98c37600 180    48     7    -4    1 nxt1md16sl6-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:29:11   0 0 1233 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:29:34   1 0 1234 2244 0             jagpacar
+E  953 07:29 1:c1394 172 cmot-2113946u01 270   162   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:30:02   0 0 1235 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:30:21   2 0 1236 2429 0             jagpacar
+E  955 07:30 1:u8860 194 bmot-sc98c95844  90    10   -53  1800 1000 nxt1md19sl12-1   Polarity
+E  955 07:30  1:m251 165 umot-sca8c71817   0    -8     0     5    8 nxt1md10sl3-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:30:57   1 0 1237 3015 0             jagpacar
+E  956 07:31 1:u8010 186 bmot-sc98c31028   0   126     2    -2    4 nxt1md18sl12-1   Right Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:31:23   2 0 1238 2429 0             jagpacar
+E  957 07:31 3:fl7501 199 bmot-sf68c47813 270     8    14  1800 1000 nxt1md9sl16-1   Polarity
+E  957 07:31 2:q4101 184 bmot-sda8d06219  90    -2    33  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:31:50   1 0 1239 3008 0             jagpacar
+E  958 07:32 4:r5303  91 rmot-0613952t01   0    -9    46    16    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:32:27   0 0 1240 2449 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:32:51   1 0 1241 2841 0             jagpacar
+E  960 07:33 2:u4130 197 bmot-sc98c30584   0    -9     2  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:33:25   1 0 1242 3151 0             jagpacar
+E  961 07:33 1:c1396 163 cmot-2113946u01  90   165    14   -17    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:34:10   0 0 1243 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:34:38   0 0 1244 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:35:30   0 0 1245 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:39:08   3 0 1246 2964 0             jagpacar
+E  965 07:39 4:m4163 204 umot-sca8c71817   0   237     0     9  406 nxt1md10sl3-1   Left Off  Right Off  Skew
+E  965 07:39 4:m5791 223 umot-sca8c71817   0   156     0     7    6 nxt1md10sl3-1   Left Off  Right Off
+E  965 07:39  1:m251 169 umot-sca8c71817   0     7     0     8  400 nxt1md10sl3-1   Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:40:05   0 0 1247 2614 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:41:36   1 0 1248 2429 0             jagpacar
+E  967 07:41 3:fl7501 199 bmot-sf68c47813 270    20    39  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:42:30   0 0 1249 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:43:43   0 0 1250 2656 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:44:37   1 0 1251 2244 0             jagpacar
+E  970 07:44 1:c1396 170 cmot-2113946u01  90   168   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:46:02   2 0 1252 2429 0             jagpacar
+E  971 07:46 3:u7031  94 bmot-sc98c92055 180    35    -7     1    1 nxt1md13sl8-1   Missing
+E  971 07:46 4:u7031 108 bmot-sc98c92055   0     9    -1     5    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:46:58   0 0 1253 2614 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:48:20   0 0 1254 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:49:38   0 0 1255 2614 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:50:31   3 0 1256 2969 0             jagpacar
+E  975 07:50 3:fl7501 199 bmot-sf68c47813 270    12    31  1800 1000 nxt1md9sl16-1   Polarity
+E  975 07:50 2:u7031 108 bmot-sc98c92055 180    32   -17    -2    1 nxt1md13sl8-1   Missing
+E  975 07:50 2:fl7501 198 bmot-sf68c47813 270    20    22  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:51:52   0 0 1257 2361 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:52:47   0 0 1258 2657 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:53:41   2 0 1259 2244 0             jagpacar
+E  978 07:53 4:fl8503 198 bmot-91014306001 180    -6   -93  1800 1000 nxt1md9sl14-1   Polarity
+E  978 07:53 1:c8015 179 cmot-21014070001  90    85    -4   -17 200000 nxt1md7sl7-1   Paste
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:55:34   2 0 1260 2256 0             jagpacar
+E  979 07:55 4:r5303  54 rmot-0613952t01   0   -18    39     0    1 nxt1md1sl13-1   Missing
+E  979 07:55 3:rt4853 103 rmot-5r59a6mxgf 270     8    28   -17    1 nxt1md5sl10-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_07:57:32   1 0 1261 2964 0             jagpacar
+E  980 07:57 2:u7032 108 bmot-sc98c92055   0     9    31     8    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_07:59:18   1 0 1262 3039 0             jagpacar
+E  981 07:59 3:r1424 185 rmot-06014001001w   0   -28    55    17 4000 nxt1md6sl7-1   Billboard
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:00:04   1 0 1263 2244 0             jagpacar
+E  982 08:00 1:c1397 175 cmot-2113946u01  90   164     4    -1    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:00:29   2 0 1264 2964 0             jagpacar
+E  983 08:00 4:u4130 198 bmot-sc98c30584 180   -18     2  1800 1000 nxt1md17sl18-1   Polarity
+E  983 08:00 1:fl7501 198 bmot-sf68c47813  90    34    -3  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:01:02   2 0 1265 3100 0             jagpacar
+E  984 08:01 1:u8010 190 bmot-sc98c31028   0   100     7  1800 1000 nxt1md18sl12-1   Polarity
+E  984 08:01 1:u7033 108 bmot-sc98c92055 180    12   -10     7    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:02:00   2 0 1266 2969 0             jagpacar
+E  985 08:02 2:q4101 193 bmot-sda8d06219  90     6    27  1800 1000 nxt1md11sl20-1   Polarity
+E  985 08:02 3:u7032 108 bmot-sc98c92055   0    54    11     0    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:02:55   0 0 1267 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:04:14   0 0 1268 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:05:06   0 0 1269 3100 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:06:32   0 0 1270 3008 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:07:24   1 0 1271 3126 0             jagpacar
+E  990 08:07 1:r1074  63 rmot-0613952x81 180     0    56     0 200001 nxt1md1sl11-1   Missing  Paste
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:08:45   1 0 1272 2657 0             jagpacar
+E  991 08:08 2:q4101 193 bmot-sda8d06219  90    -2    49  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:11:03   1 0 1273 2319 0             jagpacar
+E  992 08:11 3:fl7501 197 bmot-sf68c47813 270    16    25  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:11:57   0 0 1274 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:12:42   1 0 1275 2328 0             jagpacar
+E  994 08:12 1:c1397 172 cmot-2113946u01  90   160   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:13:13   1 0 1276 2964 0             jagpacar
+E  995 08:13  1:j452 191 umot-09014195001w 270     0     8    -4  400 nxt1md16sl14-1   Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:14:12   0 0 1277 2244 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:15:33   1 0 1278 3008 0             jagpacar
+E  997 08:15 2:q4101 196 bmot-sda8d06219  90     3    50  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:16:25   1 0 1279 2311 0             jagpacar
+E  998 08:16 1:fl8502 199 bmot-91014407001 180    53   125    -2    8 nxt1md13sl4-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:17:54   1 0 1280 2964 0             jagpacar
+E  999 08:18 2:q4101 188 bmot-sda8d06219  90    16    15  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:19:00   0 0 1281 2429 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:19:57   0 0 1282 3015 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:21:17   1 0 1283 2964 0             jagpacar
+E 1002 08:21 2:u7031 105 bmot-sc98c92055 180    26   -23     1    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:25:09   3 0 1284 3039 0             jagpacar
+E 1003 08:25 3:r7030  73 rmot-0613952y66 180     0    40     0 20001 nxt1md8sl11-1   Missing  Flipped
+E 1003 08:25 4:z7544 166 cmot-24014052021   0   -21  -156     0 200000 nxt1md1sl6-1   Paste
+E 1003 08:25 1:c1396 169 cmot-2113946u01  90   165   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:26:34   0 0 1285 2964 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:27:31   1 0 1286 2244 0             jagpacar
+E 1005 08:27 1:u8010 131 bmot-sc98c31028   0   132    -7    -1    6 nxt1md18sl12-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:28:56   1 0 1287 2933 0             jagpacar
+E 1006 08:29 2:q4101 191 bmot-sda8d06219  90    -5    15  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:29:49   0 0 1288 2328 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:31:08   1 0 1289 1915 0             jagpacar
+E 1008 08:31 2:q4101 193 bmot-sda8d06219  90     6    33  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:32:02   2 0 1290 3039 0             jagpacar
+E 1009 08:32 4:z7015 187 cmot-24014052021   0    46  -176     0 200000 nxt1md1sl6-1   Paste
+E 1009 08:32 1:r4900 152 rmot-0613952y17 270   164     9   -17    8 nxt1md7sl20-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:33:24   0 0 1291 2432 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:34:20   1 0 1292 2328 0             jagpacar
+E 1011 08:34 1:c1397 168 cmot-2113946u01  90   165   -14    -1    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:35:43   0 0 1293 2964 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:36:36   0 0 1294 2328 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:37:59   1 0 1295 2256 0             jagpacar
+E 1014 08:38 1:vr100 194 rmot-sf68d03790 180     0    27     0 20000 nxt1md7sl3-1   Flipped
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:38:56   1 0 1296 2244 0             jagpacar
+E 1015 08:39 3:c6412  56 cmot-2113944e23  90     3    14   -18    1 nxt1md4sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:41:13   0 0 1297 2614 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:41:35   0 0 1298 2256 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:43:55   0 0 1299 2964 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:44:42   0 0 1300 2441 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:45:54   0 0 1301 2660 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:47:27   0 0 1302 2792 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:48:48   1 0 1303 2964 0             jagpacar
+E 1022 08:49 2:q4101 192 bmot-sda8d06219  90     2    32  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:49:57   0 0 1304 2374 0             jagpacar
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:50:50   0 0 1305 3039 0             jagpacar
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:52:11   1 0 1306 2911 0             jagpacar
+E 1025 08:52 2:q4101 190 bmot-sda8d06219  90    -2    39  1800 1000 nxt1md11sl20-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:53:04   1 0 1307 2449 0             jagpacar
+E 1026 08:53 4:u7030 106 bmot-sc98c92055  90    29   -14     2    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:54:41   0 0 1308 3008 0             jagvinsi
+F 1027 08:55 2:q4101 195 bmot-sda8d06219  90    18    45  1800 1000 nxt1md11sl20-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:55:35   0 0 1309 2861 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:56:31   0 0 1310 2244 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_08:57:54   0 0 1311 2964 0             jagvinsi
+F 1030 08:58 1:u4130 195 bmot-sc98c30584 180   -28     6  1800 1000 nxt1md17sl18-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_08:58:56   0 0 1312 2244 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:00:09   0 0 1313 2964 0             jagvinsi
+F 1032 09:00 3:u4130 193 bmot-sc98c30584   0    29     0  1800 1000 nxt1md17sl18-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:01:04   0 0 1314 3026 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:02:25   0 0 1315 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:03:19   0 0 1316 3039 0             jagvinsi
+F 1035 09:04 4:u8000 189 bmot-sc98c31028 180    41    -3  1800 1000 nxt1md18sl12-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:04:41   0 0 1317 2861 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:05:33   0 0 1318 3039 0             jagvinsi
+F 1037 09:05 2:c6412  27 cmot-2113944e23  90    43     4     0    1 nxt1md4sl11-1 FF- Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:07:06   0 0 1319 2969 0             jagvinsi
+F 1038 09:08 3:fl7501 199 bmot-sf68c47813 270    20     5  1800 1000 nxt1md9sl16-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:08:33   0 0 1320 2361 0             jagvinsi
+F 1039 09:09 1:r4900 147 rmot-0613952y17 270   163     0     0    8 nxt1md7sl20-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:09:50   2 0 1321 2994 0             jagvinsi
+F 1040 09:11 3:u8802  95 bmot-sc98c57688 270    30   -99  -151  403 nxt1md8sl12-1 FF- Missing  Left Off  Skew
+E 1040 09:11 3:fl7501 199 bmot-sf68c47813 270   -15    -5  1800 1000 nxt1md9sl16-1   Polarity
+E 1040 09:11 2:fl7504 196 bmot-sf68c47815 180    24   -75    81  400 nxt1md13sl18-1   Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:11:23   0 0 1322 3093 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:11:50   0 0 1323 3008 0             jagvinsi
+F 1042 09:12 4:r1679 103 rmot-0613952u59 270    -9    56   105  400 nxt1md6sl17-1 FF- Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:12:38   0 0 1324 2317 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:14:11   0 0 1325 2933 0             jagvinsi
+F 1044 09:14 2:r1679 105 rmot-0613952u59  90    20     9    17    1 nxt1md6sl17-1 FF- Missing
+F 1044 09:14 3:r1679  95 rmot-0613952u59  90    13    -9   -17    1 nxt1md6sl17-1 FF- Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:14:55   0 0 1326 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:15:52   0 0 1327 2414 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:17:26   0 0 1328 1506 0             jagvinsi
+F 1047 09:18 1:fl7501 199 bmot-sf68c47813  90    45   -41  1800 1000 nxt1md9sl16-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:19:18   0 0 1329 2911 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:21:34   0 0 1330 2933 0             jagvinsi
+F 1049 09:21 3:r5303  72 rmot-0613952t01 180     9    10    17    1 nxt1md1sl13-1 FF- Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:22:27   1 0 1331 2441 0             jagvinsi
+E 1050 09:24 3:l8000 200 bmot-si28c74510 180    32   -28  1800 1000 nxt1md14sl14-1   Polarity
+F 1050 09:24 4:fl8503 199 bmot-91014306001 180    14  -121  1800 1000 nxt1md9sl14-1 FF- Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:24:19   0 0 1332 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:25:00   0 0 1333 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:29:04  -1 0 1334 3039 0             jagvinsi
+F 1053 09:30 1:c1396 169 cmot-2113946u01  90   161   -14     0    8 nxt1md2sl11-1 FF- Hor Off
+F 1053 09:30 2:r4900  90 rmot-0613952y17  90    38   -37     0    1 nxt1md7sl20-1 FF- Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:30:12   0 0 1335 2625 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:30:47   0 0 1336 2245 0             jagvinsi
+F 1055 09:31 1:c1397 193 cmot-2113946u01  90   160    -4    16    8 nxt1md2sl11-1 FF- Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:32:34   0 0 1337 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:32:56   1 0 1338 2371 0             jagvinsi
+E 1057 09:33 3:u4130 196 bmot-sc98c30584   0    35   -11  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:34:01   0 0 1339 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:34:54   1 0 1340 3015 0             jagvinsi
+E 1059 09:35 4:c1408  92 cmot-21014004001   0    27    37     0    1 nxt1md5sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:36:12   1 0 1341 2429 0             jagvinsi
+E 1060 09:36 2:r1679 100 rmot-0613952u59  90    -3    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:37:08   0 0 1342 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:38:27   0 0 1343 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:39:19   0 0 1344 2329 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:40:30   0 0 1345 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:41:56   2 0 1346 2933 0             jagvinsi
+E 1065 09:42 1:u8860 196 bmot-sc98c95844  90    -1   -34  1800 1000 nxt1md19sl12-1   Polarity
+E 1065 09:42 3:u8801 109 bmot-sc98c92055  90    53    12     5    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:42:50   0 0 1347 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:44:12   2 0 1348 2429 0             jagvinsi
+E 1067 09:44 4:u4130 195 bmot-sc98c30584 180    -8    22  1800 1000 nxt1md17sl18-1   Polarity
+E 1067 09:44 2:c5797 165 cmot-2113944e15 270   154   -14    -1    8 nxt1md10sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:45:06   0 0 1349 3139 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:46:32   1 0 1350 2911 0             jagvinsi
+E 1069 09:46 2:r1679  84 rmot-0613952u59  90    -9     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:47:37   0 0 1351 2964 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:48:30   1 0 1352 3039 0             jagvinsi
+E 1071 09:48 1:c1397 194 cmot-2113946u01  90   160   -33     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:49:54   0 0 1353 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:50:46   0 0 1354 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:52:13   1 0 1355 2429 0             jagvinsi
+E 1074 09:52 3:c5651  68 cmot-2113944e17 180    37    34   -17    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:53:07   0 0 1356 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:54:25   0 0 1357 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:55:19   0 0 1358 2995 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:57:33   0 0 1359 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:58:01   0 0 1360 1506 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_09:58:58   2 0 1361 2964 0             jagvinsi
+E 1080 09:59 2:r1679  84 rmot-0613952u59  90     4    28    17    1 nxt1md6sl17-1   Missing
+E 1080 09:59 2:u4130 195 bmot-sc98c30584   0     1    -3  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_09:59:51   1 0 1362 3039 0             jagvinsi
+E 1081 10:00 2:c1528 101 cmot-2113946u01  90    36   -14     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:01:09   0 0 1363 3008 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:02:01   0 0 1364 3139 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:03:51   0 0 1365 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:04:43   0 0 1366 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:05:29   0 0 1367 3139 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:07:00   0 0 1368 3151 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:08:09   1 0 1369 2765 0             jagvinsi
+E 1088 10:08 2:r1679  71 rmot-0613952u59  90     1    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:09:47   0 0 1370 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:10:25   0 0 1371 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:12:22   0 0 1372 2885 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:12:47   1 0 1373 2656 0             jagvinsi
+E 1092 10:13 2:r1679  92 rmot-0613952u59  90    10     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:13:31   0 0 1374 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:14:55   2 0 1375 2969 0             jagvinsi
+E 1094 10:15 1:u7031 108 bmot-sc98c92055   0    -3    -9     3    1 nxt1md13sl8-1   Missing
+E 1094 10:15 2:l4155 200 bmot-si28c50671 270    13    19  -168  400 nxt1md8sl8-1   Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:15:47   1 0 1376 2361 0             jagvinsi
+E 1095 10:16 1:fl8502 199 bmot-91014407001 180    37   126    -8    8 nxt1md13sl4-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:18:14   0 0 1377 2911 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:21:03   0 0 1378 2994 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:22:44   1 0 1379 3093 0             jagvinsi
+E 1098 10:23 4:fl7520 198 bmot-sf68c69229 180    49    85  1800 1000 nxt1md12sl17-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:23:38   0 0 1380 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:24:30   0 0 1381 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:25:04   1 0 1382 2256 0             jagvinsi
+E 1101 10:25 2:r1679  84 rmot-0613952u59  90    -3    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:25:50   0 0 1383 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:26:12   0 0 1384 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:27:05   2 0 1385 3039 0             jagvinsi
+E 1104 10:27 4:c6250 126 cmot-21014004001   0    56     6   123  400 nxt1md6sl11-1   Skew
+E 1104 10:27 1:c1396 191 cmot-2113946u01  90   164    23     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:28:26   1 0 1386 2964 0             jagvinsi
+E 1105 10:28 2:r1679  79 rmot-0613952u59  90     9    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:29:18   1 0 1387 3039 0             jagvinsi
+E 1106 10:29 1:c1396 197 cmot-2113946u01  90   161     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:30:30   1 0 1388 2615 0             jagvinsi
+E 1107 10:30 2:c3902   5 cmot-2113946u01   0    27    -8     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:31:55   1 0 1389 2656 0             jagvinsi
+E 1108 10:32 3:u4130 194 bmot-sc98c30584   0    25    -6  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:32:48   1 0 1390 2245 0             jagvinsi
+E 1109 10:33 3:u7033 108 bmot-sc98c92055   0    39    24     3    1 nxt1md13sl8-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:34:09   2 0 1391 2969 0             jagvinsi
+E 1110 10:34 3:u7501 199 bmot-sc98d22497  90    33    -6  1800 1000 nxt1md16sl15-1   Polarity
+E 1110 10:34  2:j452 230 umot-09014195001w  90     0    -8    -3  400 nxt1md16sl14-1   Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:35:05   0 0 1392 2794 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:36:27   1 0 1393 2656 0             jagvinsi
+E 1112 10:36 2:r1679  82 rmot-0613952u59  90     9     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:37:19   0 0 1394 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:38:41   1 0 1395 2911 0             jagvinsi
+E 1114 10:38 1:u4130 196 bmot-sc98c30584 180   -28    26  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:39:35   0 0 1396 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:40:57   1 0 1397 2656 0             jagvinsi
+E 1116 10:41 2:r1679  79 rmot-0613952u59  90     9     9    16    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:41:49   0 0 1398 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:43:11   1 0 1399 2429 0             jagvinsi
+E 1118 10:43  2:m351 208 umot-39014236003  90     0   155     1    6 nxt1md14sl3-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:44:03   0 0 1400 2282 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:45:25   1 0 1401 2656 0             jagvinsi
+E 1120 10:45 4:r1679  31 rmot-0613952u59 270   -15     0    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:46:18   0 0 1402 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:47:40   0 0 1403 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:48:32   1 0 1404 3000 0             jagvinsi
+E 1123 10:48 1:r1063 163 rmot-0613952x81   0    -9    12   -17 200000 nxt1md1sl11-1   Paste
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:49:49   1 0 1405 3039 0             jagvinsi
+E 1124 10:50 1:c1396 194 cmot-2113946u01  90   160   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:51:10   0 0 1406 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:52:02   0 0 1407 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:53:30   1 0 1408 2256 0             jagvinsi
+E 1127 10:53 2:r1679  86 rmot-0613952u59  90     2    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:54:22   0 0 1409 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:55:45   1 0 1410 2656 0             jagvinsi
+E 1129 10:56 2:r1679  58 rmot-0613952u59  90     1    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:56:37   0 0 1411 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_10:58:00   1 0 1412 2964 0             jagvinsi
+E 1131 10:58 3:z4117  83 rmot-0613952y66 180   -18     1     0 20001 nxt1md8sl11-1   Missing  Flipped
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_10:58:52   0 0 1413 3015 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:00:14   1 0 1414 2964 0             jagvinsi
+E 1133 11:00 3:u4130 195 bmot-sc98c30584   0    36    -6  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:01:17   1 0 1415 3048 0             jagvinsi
+E 1134 11:01 1:c1397 195 cmot-2113946u01  90   161   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:02:29   1 0 1416 2872 0             jagvinsi
+E 1135 11:02  2:m351 206 umot-39014236003  90     0   154     1    6 nxt1md14sl3-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:03:20   0 0 1417 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:04:43   1 0 1418 2390 0             jagvinsi
+E 1137 11:04 2:r1679  83 rmot-0613952u59  90   -15     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:05:53   1 0 1419 2256 0             jagvinsi
+E 1138 11:06 2:r1679  79 rmot-0613952u59  90   -16     9   -17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:07:27   0 0 1420 2615 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:08:04   0 0 1421 2964 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:08:56   0 0 1422 3093 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:10:18   1 0 1423 2429 0             jagvinsi
+E 1142 11:10 2:r1679  55 rmot-0613952u59  90    -6     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:11:12   0 0 1424 2366 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:12:31   3 0 1425 2841 0             jagvinsi
+E 1144 11:12 2:r1679  76 rmot-0613952u59  90     0     0     0    1 nxt1md6sl17-1   Missing
+E 1144 11:12 3:u4130 195 bmot-sc98c30584   0    32    -2  1800 1000 nxt1md17sl18-1   Polarity
+E 1144 11:12 2:u4130 195 bmot-sc98c30584   0    21    -6  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:13:57   0 0 1426 2705 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:15:24   1 0 1427 2964 0             jagvinsi
+E 1146 11:15 3:u4130 194 bmot-sc98c30584   0    24    -3  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:16:16   1 0 1428 2900 0             jagvinsi
+E 1147 11:16 1:z7097 200 rmot-24014052009 270    28     9   -17 20000 nxt1md1sl10-1   Flipped
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:17:26   1 0 1429 2730 0             jagvinsi
+E 1148 11:17 2:c2600  73 cmot-2113944e17  90    22    -4   -17    1 nxt1md9sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:18:52   1 0 1430 2429 0             jagvinsi
+E 1149 11:19 2:r1679  79 rmot-0613952u59  90     0     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:19:44   0 0 1431 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:21:01   1 0 1432 2282 0             jagvinsi
+E 1151 11:21 3:r1085 153 rmot-0613952x81   0   -28    12    17 200000 nxt1md1sl11-1   Paste
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:22:29   0 0 1433 2994 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:23:21   0 0 1434 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:24:45   2 0 1435 3008 0             jagvinsi
+E 1154 11:24 2:r1679 100 rmot-0613952u59  90     3     9    16    1 nxt1md6sl17-1   Missing
+E 1154 11:24 4:u1657 184 bmot-sc98c40639  90     9   -11  1800 1000 nxt1md15sl3-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:25:51   3 0 1436 2371 0             jagvinsi
+E 1155 11:26 2:r1679  66 rmot-0613952u59  90     6     0     0    1 nxt1md6sl17-1   Missing
+E 1155 11:26 4:r5303 100 rmot-0613952t01   0    -9    34    17    1 nxt1md1sl13-1   Missing
+E 1155 11:26 3:u4130 196 bmot-sc98c30584   0    14     6  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:26:52   0 0 1437 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:28:06   1 0 1438 2374 0             jagvinsi
+E 1157 11:28 2:r1679  98 rmot-0613952u59  90    33    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:29:36   0 0 1439 2317 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:30:21   1 0 1440 2429 0             jagvinsi
+E 1159 11:30 2:r1679  85 rmot-0613952u59  90    12    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:31:13   0 0 1441 3100 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:32:35   1 0 1442 2414 0             jagvinsi
+E 1161 11:32 2:r1679  79 rmot-0613952u59  90    30     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:33:35   0 0 1443 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:35:57   1 0 1444 2361 0             jagvinsi
+E 1163 11:36 1:c1397 196 cmot-2113946u01  90   160   -23   -17    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:36:22   0 0 1445 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:37:17   2 0 1446 2657 0             jagvinsi
+E 1165 11:37 2:r1679  73 rmot-0613952u59  90    10     0    -1    1 nxt1md6sl17-1   Missing
+E 1165 11:37 3:r5303  94 rmot-0613952t01 180    -9    22   -18    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:38:36   0 0 1447 2282 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:39:29   1 0 1448 2429 0             jagvinsi
+E 1167 11:39 3:u4130 196 bmot-sc98c30584   0    38    -5  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:40:21   0 0 1449 3093 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:41:46   2 0 1450 2911 0             jagvinsi
+E 1169 11:42 2:r1679  93 rmot-0613952u59  90    20     9    17    1 nxt1md6sl17-1   Missing
+E 1169 11:42 3:fl7612 161 bmot-sf68c93109   0   -36   126    31    8 nxt1md12sl4-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:42:38   0 0 1451 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:43:59   3 0 1452 2841 0             jagvinsi
+E 1171 11:44 2:r1679  56 rmot-0613952u59  90    34     0     0    1 nxt1md6sl17-1   Missing
+E 1171 11:44 3:u4130 195 bmot-sc98c30584   0    24   -13  1800 1000 nxt1md17sl18-1   Polarity
+E 1171 11:44 2:u4130 197 bmot-sc98c30584   0    20    -4  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:45:24   0 0 1453 2312 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:46:24   2 0 1454 2841 0             jagvinsi
+E 1173 11:46 2:r1679  94 rmot-0613952u59  90    34     9   -18    1 nxt1md6sl17-1   Missing
+E 1173 11:46 2:u4130 198 bmot-sc98c30584   0    26     1  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:47:16   0 0 1455 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:48:29   1 0 1456 2429 0             jagvinsi
+E 1175 11:48 2:r1679  73 rmot-0613952u59  90     2    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:49:33   2 0 1457 2429 0             jagvinsi
+E 1176 11:49 2:r1679  64 rmot-0613952u59  90    -9     0     0    1 nxt1md6sl17-1   Missing
+E 1176 11:49 3:fl7501 199 bmot-sf68c47813 270     7    -8  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:50:27   0 0 1458 3151 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:52:55   0 0 1459 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:53:37   0 0 1460 2282 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:54:22   0 0 1461 2502 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:55:26   1 0 1462 2969 0             jagvinsi
+E 1181 11:55 2:r1679  91 rmot-0613952u59  90     3    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_11:56:18   0 0 1463 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_11:57:40   0 0 1464 2969 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:00:42   0 0 1465 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:01:07   0 0 1466 2969 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:01:53   0 0 1467 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:03:16   1 0 1468 2429 0             jagvinsi
+E 1187 12:03 2:r1679  78 rmot-0613952u59  90     2     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:04:23   1 0 1469 2256 0             jagvinsi
+E 1188 12:04 2:r1679  62 rmot-0613952u59  90    -5    28    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:05:17   1 0 1470 2246 0             jagvinsi
+E 1189 12:05 1:c1396 190 cmot-2113946u01  90   166   -14    -1    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:06:38   1 0 1471 2429 0             jagvinsi
+E 1190 12:06 4:fl7612 175 bmot-sf68c93109 180   101     7   -56    4 nxt1md12sl4-1   Right Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:07:30   1 0 1472 2361 0             jagvinsi
+E 1191 12:07 1:c1396 170 cmot-2113946u01  90   162     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:08:52   1 0 1473 2807 0             jagvinsi
+E 1192 12:09  2:j452 227 umot-09014195001w  90     0    16    -4  400 nxt1md16sl14-1   Skew
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:09:44   0 0 1474 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:11:08   2 0 1475 2256 0             jagvinsi
+E 1194 12:11  4:j402 225 umot-09014195001w  90     0    26    -4  400 nxt1md16sl14-1   Skew
+E 1194 12:11 2:r1679  88 rmot-0613952u59  90     0     9    16    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:12:05   0 0 1476 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:13:21   1 0 1477 2656 0             jagvinsi
+E 1196 12:13 2:r1679  61 rmot-0613952u59  90     5     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:14:13   0 0 1478 2502 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:15:36   1 0 1479 2429 0             jagvinsi
+E 1198 12:15 2:r1679 100 rmot-0613952u59  90     4    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:16:33   0 0 1480 3151 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:17:51   1 0 1481 2429 0             jagvinsi
+E 1200 12:18 2:r1679  91 rmot-0613952u59  90    -8    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:18:43   0 0 1482 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:20:58   1 0 1483 2458 0             jagvinsi
+E 1202 12:21 2:c3482  94 cmot-2113946u01   0     8   -24     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:21:24   0 0 1484 2964 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:22:43   0 0 1485 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:23:36   0 0 1486 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:24:24   0 0 1487 2374 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:25:48   0 0 1488 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:26:41   0 0 1489 3151 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:28:08   0 0 1490 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:29:00   1 0 1491 2361 0             jagvinsi
+E 1210 12:29 3:r1425 180 rmot-06014001001w   0   -18    48     0 4000 nxt1md6sl7-1   Billboard
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:30:23   1 0 1492 2964 0             jagvinsi
+E 1211 12:30 2:r1679  95 rmot-0613952u59  90     6    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:31:43   1 0 1493 3039 0             jagvinsi
+E 1212 12:32 4:c1407 123 cmot-21014004001   0    46    49   106  400 nxt1md5sl11-1   Skew
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:32:37   0 0 1494 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:33:33   0 0 1495 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:34:52   2 0 1496 2841 0             jagvinsi
+E 1215 12:35 2:r1679  62 rmot-0613952u59  90    10     9    17    1 nxt1md6sl17-1   Missing
+E 1215 12:35 4:r1679  41 rmot-0613952u59 270     6     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:35:53   0 0 1497 2716 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:37:10   2 0 1498 3008 0             jagvinsi
+E 1217 12:37 2:r1679  75 rmot-0613952u59  90     5    56    71    1 nxt1md6sl17-1   Missing
+E 1217 12:37 2:fl7501 199 bmot-sf68c47813 270    17    -8  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:38:14   2 0 1499 2375 0             jagvinsi
+E 1218 12:38 2:r1679  84 rmot-0613952u59  90   -17    28    17    1 nxt1md6sl17-1   Missing
+E 1218 12:38 3:r8830  86 rmot-0613952y66  90    34    47    17    1 nxt1md8sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:39:08   0 0 1500 3015 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:40:28   1 0 1501 2429 0             jagvinsi
+E 1220 12:40 2:r1679  95 rmot-0613952u59  90    18    -9   -18    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:41:20   2 0 1502 2374 0             jagvinsi
+E 1221 12:41 1:c1398 197 cmot-2113946u01  90   161   -23   -17    8 nxt1md2sl11-1   Hor Off
+E 1221 12:41 1:c1396 196 cmot-2113946u01  90   163     4     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:42:33   0 0 1503 3139 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:43:57   1 0 1504 2656 0             jagvinsi
+E 1223 12:44 2:r1679  65 rmot-0613952u59  90    20    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:45:06   1 0 1505 2429 0             jagvinsi
+E 1224 12:45 2:r1679  72 rmot-0613952u59  90    -4     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:45:59   0 0 1506 2282 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:47:45   2 0 1507 2969 0             jagvinsi
+E 1226 12:48 2:r1679  89 rmot-0613952u59  90    34     0     0    1 nxt1md6sl17-1   Missing
+E 1226 12:48 2:fl7501 197 bmot-sf68c47813 270    21    -3  1800 1000 nxt1md9sl16-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:48:44   1 0 1508 3008 0             jagvinsi
+E 1227 12:48 2:r1679  93 rmot-0613952u59  90    -2    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:49:37   0 0 1509 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:51:08   0 0 1510 2964 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:52:01   1 0 1511 2715 0             jagvinsi
+E 1230 12:52 2:c1442  75 cmot-2113946u01   0   -10    20     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:53:56   0 0 1512 3022 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:54:47   1 0 1513 2429 0             jagvinsi
+E 1232 12:55 2:r1679  45 rmot-0613952u59  90     0    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_12:55:38   1 0 1514 3008 0             jagvinsi
+E 1233 12:55 2:r1679  79 rmot-0613952u59  90    10    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:56:32   0 0 1515 2449 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:57:39   1 0 1516 3015 0             jagvinsi
+E 1235 12:57  4:m201  42 umot-39014236003  90     0   153    -2    1 nxt1md14sl3-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_12:58:57   0 0 1517 2349 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:00:25   2 0 1518 2319 0             jagvinsi
+E 1237 13:00 2:r1679  73 rmot-0613952u59  90     3    18     0    1 nxt1md6sl17-1   Missing
+E 1237 13:00 4:j6100 170 smot-sca8c71816   0    -2   -25  1800 1000 nxt1md15sl17-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:01:26   3 0 1519 2429 0             jagvinsi
+E 1238 13:01 1:fl7612 183 bmot-sf68c93109 180  -104   -45   -72    2 nxt1md12sl4-1   Left Off
+E 1238 13:01 2:r1679  73 rmot-0613952u59  90     8    18     0    1 nxt1md6sl17-1   Missing
+E 1238 13:01 1:j6100 170 smot-sca8c71816   0    32    77  1800 1000 nxt1md15sl17-1   Polarity
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:02:34   1 0 1520 2429 0             jagvinsi
+E 1239 13:02 2:r1679  30 rmot-0613952u59  90   -15    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:03:36   0 0 1521 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:04:59   1 0 1522 2256 0             jagvinsi
+E 1241 13:05 2:r1679  92 rmot-0613952u59  90    12    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:06:12   0 0 1523 2449 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:07:36   3 0 1524 2256 0             jagvinsi
+E 1243 13:07 2:j6100 168 smot-sca8c71816 180   -39   -34  1800 1000 nxt1md15sl17-1   Polarity
+E 1243 13:07 2:r1679  68 rmot-0613952u59  90    -9    28    17    1 nxt1md6sl17-1   Missing
+E 1243 13:07 1:j6100 169 smot-sca8c71816   0    20    95  1800 1000 nxt1md15sl17-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:10:43   0 0 1525 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:11:05   2 0 1526 1719 0             jagvinsi
+E 1245 13:11 2:r1679  60 rmot-0613952u59  90     2     9    17    1 nxt1md6sl17-1   Missing
+E 1245 13:11 4:r1679  70 rmot-0613952u59 270     1     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:11:44   0 0 1527 2449 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:12:29   1 0 1528 3039 0             jagvinsi
+E 1247 13:12 1:c1397 195 cmot-2113946u01  90   164   -14     0    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:13:20   2 0 1529 2319 0             jagvinsi
+E 1248 13:13 4:fl7501 199 bmot-sf68c47813  90    28   -16  1800 1000 nxt1md9sl16-1   Polarity
+E 1248 13:13 2:r1679  78 rmot-0613952u59  90    28     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:14:25   0 0 1530 2911 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:15:19   0 0 1531 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:17:30   0 0 1532 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:18:46   0 0 1533 2429 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:19:35   0 0 1534 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:20:28   0 0 1535 3015 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:21:14   0 0 1536 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:22:35   0 0 1537 2246 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:24:58   0 0 1538 2317 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:26:22   2 0 1539 2854 0             jagvinsi
+E 1258 13:26 2:r1679  84 rmot-0613952u59  90   -12     0     0    1 nxt1md6sl17-1   Missing
+E 1258 13:26  2:r281  88 rmot-0613952x25 180    37    -2     0 4001 nxt1md1sl17-1   Missing  Billboard
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:28:24   1 0 1540 2429 0             jagvinsi
+E 1259 13:28  2:m351 205 umot-39014236003  90     0   154     2    6 nxt1md14sl3-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:30:06   0 0 1541 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:31:31   1 0 1542 2429 0             jagvinsi
+E 1261 13:31 2:r1679  71 rmot-0613952u59  90    16    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:32:35   0 0 1543 2449 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:34:44   2 0 1544 2964 0             jagvinsi
+E 1263 13:34 2:y1451 195 bmot-scc8c83981 270    24    10  1800 1000 nxt1md16sl19-1   Polarity
+E 1263 13:34 2:r1679  87 rmot-0613952u59  90     6    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:35:37   0 0 1545 2911 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:36:43   2 0 1546 2872 0             jagvinsi
+E 1265 13:36 2:r1679  82 rmot-0613952u59  90     3     9    17    1 nxt1md6sl17-1   Missing
+E 1265 13:36 4:r5302  81 rmot-0613952t01   0     0    20     0    1 nxt1md1sl13-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:40:13   1 0 1547 2837 0             jagvinsi
+E 1266 13:40  1:r113 101 rmot-0613952x25  90    36     9   -17 4001 nxt1md1sl17-1   Missing  Billboard
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:40:39   0 0 1548 2319 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:41:27   2 0 1549 3151 0             jagvinsi
+E 1268 13:41 1:c1397 194 cmot-2113946u01  90   162    -4    17    8 nxt1md2sl11-1   Hor Off
+E 1268 13:41  2:r113 180 rmot-0613952x25 270    58     0     0 20000 nxt1md1sl17-1   Flipped
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:41:55   2 0 1550 2256 0             jagvinsi
+E 1269 13:42 1:fl7501 197 bmot-sf68c47813  90    24   -37  1800 1000 nxt1md9sl16-1   Polarity
+E 1269 13:42 2:r1679  95 rmot-0613952u59  90    27    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:42:32   0 0 1551 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:43:41   0 0 1552 2656 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:44:47   1 0 1553 2917 0             jagvinsi
+E 1272 13:45 1:c1396 191 cmot-2113946u01  90   165    14   -17    8 nxt1md2sl11-1   Hor Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:45:56   2 0 1554 2371 0             jagvinsi
+E 1273 13:46 2:r1679  58 rmot-0613952u59  90    12     9    17    1 nxt1md6sl17-1   Missing
+E 1273 13:46 4:r1679  53 rmot-0613952u59 270    25    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:47:14   0 0 1555 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:48:43   3 0 1556 2656 0             jagvinsi
+E 1275 13:48  1:j402 228 umot-09014195001w  90     0    24    -5    8 nxt1md16sl14-1   Hor Off
+E 1275 13:48 2:r1679  86 rmot-0613952u59  90    -6    18     0    1 nxt1md6sl17-1   Missing
+E 1275 13:48 4:r1679  68 rmot-0613952u59 270     2     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:50:21   0 0 1557 2117 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:51:57   0 0 1558 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:54:50   1 0 1559 2319 0             jagvinsi
+E 1278 13:55 4:r1679  78 rmot-0613952u59 270   -15     9    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:55:42   3 0 1560 3039 0             jagvinsi
+E 1279 13:55 3:c3428  95 cmot-2113946u01   0   -28    21     0    1 nxt1md2sl11-1   Missing
+E 1279 13:55 4:c1445 100 cmot-2113946u01 180    27     3     0    1 nxt1md2sl11-1   Missing
+E 1279 13:55 1:c1528 103 cmot-2113946u01 270    25   -33     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:56:28   1 0 1561 2246 0             jagvinsi
+E 1280 13:56 4:c6263 109 cmot-2113946u01 180     8     0     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_13:57:20   0 0 1562 2967 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:58:43   1 0 1563 2256 0             jagvinsi
+E 1282 13:58 2:r1679  71 rmot-0613952u59  90    37    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_13:59:57   1 0 1564 2319 0             jagvinsi
+E 1283 14:00 2:r1679  88 rmot-0613952u59  90   -11    18     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:01:07   1 0 1565 2245 0             jagvinsi
+E 1284 14:01 1:c1528  84 cmot-2113946u01 270    19   -14     0    1 nxt1md2sl11-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:02:31   1 0 1566 2256 0             jagvinsi
+E 1285 14:02 2:r1679  78 rmot-0613952u59  90    10     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:03:29   0 0 1567 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:07:23   4 0 1568 2465 0             jagvinsi
+E 1287 14:07 1:fl7501 198 bmot-sf68c47813  90    44   -13  1800 1000 nxt1md9sl16-1   Polarity
+E 1287 14:07 2:r1679 108 rmot-0613952u59  90    14    18    -1    1 nxt1md6sl17-1   Missing
+E 1287 14:07 4:r1679  66 rmot-0613952u59 270     0     0    -1    1 nxt1md6sl17-1   Missing
+E 1287 14:07 3:u4130 194 bmot-sc98c30584   0    46   -11  1800 1000 nxt1md17sl18-1   Polarity
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:08:16   0 0 1569 3002 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:09:03   1 0 1570 1682 0             jagvinsi
+E 1289 14:09 4:q4102 183 bmot-sda8c00643  90     9  -161     0    6 nxt1md10sl19-1   Left Off  Right Off
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:10:26   1 0 1571 2838 0             jagvinsi
+E 1290 14:10 2:r1679  77 rmot-0613952u59  90   -15    18    -1    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:11:20   0 0 1572 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:14:20   1 0 1573 1506 0             jagvinsi
+E 1292 14:14 2:r1679  93 rmot-0613952u59  90     6    28    16    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:15:23   0 0 1574 3039 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:17:11   1 0 1575 2319 0             jagvinsi
+E 1294 14:17 2:r1679  98 rmot-0613952u59  90     8    28    16    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:18:01   0 0 1576 2256 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:21:21   0 0 1577 3151 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:21:47   1 0 1578 2256 0             jagvinsi
+E 1297 14:22 2:r1679  90 rmot-0613952u59  90    10    28    17    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:22:34   0 0 1579 2361 0             jagvinsi
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:23:19   0 0 1580 2245 0             jagvinsi
+B  Barcode0 SB28D10864_Y_BOT 26-Oct-2021_14:24:33   3 0 1581 2429 0             jagvinsi
+E 1300 14:24  4:r281  89 rmot-0613952x25   0   -18    22     0 4001 nxt1md1sl17-1   Missing  Billboard
+E 1300 14:24 1:u7032 107 bmot-sc98c92055 180    40   -13     9    1 nxt1md13sl8-1   Missing
+E 1300 14:24 2:r1679  66 rmot-0613952u59  90    20     0     0    1 nxt1md6sl17-1   Missing
+B  Barcode0 SB28D10864_Y_TOP 26-Oct-2021_14:25:26   0 0 1582 2282 0             jagvinsi
